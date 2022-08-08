@@ -1,0 +1,157 @@
+- week: 1
+  days:
+    - date: 1/04
+      format:
+      theme: Cancelled
+    - date: 1/06
+      theme: Cancelled
+      topics:
+
+- week: 2
+  days:
+    - date: 1/11
+      format: Lecture (Yulia)
+      theme: Introduction
+      topics: Motivation, course overview and requirements, examples of projects in computational ethics 
+      slides: "https://docs.google.com/presentation/d/1tj3-GurBX2qv2eiIgBgi1H_JYOImN3e4SqZJpvGCaGc/edit"
+      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.yf5kektle33k"
+    - date: 1/13
+      format: Lecture (Yulia)
+      theme: Human subjects
+      topics: "History: medical, psychological experiments, IRB and human subjects."
+      slides: "https://docs.google.com/presentation/d/16xo1yLSvU-lWx_X7B4T3zOLgdrN1bUGJvI91Epb-QJM/edit"
+      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.ku0hxeuseo4r"
+
+- week: 3
+  days:
+    - date: 1/18
+      format: Paper discussion
+      theme: Human Subjects
+      topics: Paper discussion
+      slides: "https://docs.google.com/presentation/d/1VEe5Kh6kDHPBg3qmx3hqi8_-UK4aGf_0yyI6saQMhOk/edit#slide=id.p"
+      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.wdxt2vmcorb2"
+      due:
+    - date: 1/20
+      format: Lecture (Julian)
+      theme: Philosophical Foundations
+      topics: Ethical frameworks, benefit and harm, power, automation
+      slides: "https://docs.google.com/presentation/d/1z4QhDkcFRSZgxpMCaGH4QL1z_l4gkWJmEV5pBL7Wtw4/edit#slide=id.gcfec9c4d01_1_65"
+      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.mkqmfyy3vjxz"
+      due:
+
+
+- week: 4
+  days:
+    - date: 1/25
+      format: Paper discussion
+      theme: Philosophical Foundations
+      topics: Paper discussion
+      slides: "https://docs.google.com/presentation/d/1LVX_Mv_Zp_uxplFysmCG-G9mko32gkBnAdvvg4tcZc8/edit#slide=id.p"
+      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.l9t2fjaw58yc"
+      due:
+    - date: 1/27
+      format: Lecture (Yulia)
+      theme: Social bias and (un)fairness
+      topics: Psychological foundations of bias; social bias and disparities in NLP models
+      slides: "https://docs.google.com/presentation/d/1-pYej6h89mBuFAyN7bfvG5YPRwdgPBVS8xe1K0ccP0s/edit?usp=sharing"
+      readings:
+      due:
+
+- week: 5
+  days:
+    - date: 2/1
+      format: Paper discussion
+      theme: Social bias in NLP models
+      topics: Paper discussion # Detecting and countering gender and racial bias in NLP models
+      slides: "https://docs.google.com/presentation/d/1z1i-pKDkO99VAoSIvnuU25yDUctThojjXRyBCN3chB8/edit#slide=id.p"
+      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.fvkdj6qqczvc"
+      due:
+    - date: 2/3
+      format: Paper discussion
+      theme: NLP for detecting bias and stereotypes
+      topics: Paper discussion
+      slides: "https://docs.google.com/presentation/d/1Z6Ekh09s4RCRwhkmc4j02ErJKQn49wSdaYbAl_rYa44/edit#slide=id.p"
+      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.5i6neowr4kma"
+      due:
+
+- week: 6
+  days:
+    - date: 2/8
+      format: Lecture (Yulia)
+      theme: Hate speech
+      topics: NLP for identifying and countering hate speech/toxicity/abuse
+      slides: "https://docs.google.com/presentation/d/133RJh2L9BXzFO4R6B0fw07U8SgAPeufHomzyXHGeA2I/edit"
+      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.evt5ar8ohk9f"
+      due: Assign papers for ethics review
+    - date: 2/10
+      format: Paper discussion
+      theme: Hate speech
+      topics: Paper discussion
+      slides: "https://docs.google.com/presentation/d/1-Epq1x2gPAo8F27yfhDtmE6cqY2oBnF-9kPE82KJKpI/edit"
+      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.70jug8732d29"
+      due: Project pre-proposal due
+
+- week: 7
+  days:
+    - date: 2/15
+      format: Lecture (Anjalie)
+      theme: Misinformation
+      topics: NLP for fact-checking and fake news detection, computational propaganda and political misinformation
+      slides: "https://docs.google.com/presentation/d/1yDVEiWER9AXAD8MLzr3XO0GFgQQnDW9Ri-_Ein84JOA/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.kf5liby5ax9m"
+      due:
+    - date: 2/17
+      format: Paper discussion
+      theme: Misinformation
+      topics: Paper discussion
+      slides: "https://docs.google.com/presentation/d/1dYtOLKok5l_AdWskeTRHxIglNsg4AjWToVOMIVKKOek/edit"
+      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.wfktesz4zauk"
+      due:
+
+- week: 8
+  days:
+    - date: 2/22
+      format: Lecture (Patricia Thaine)
+      theme: Privacy
+      topics: Privacy and anonymity in NLP, writer profiling and adversarial defenses
+      slides: "https://docs.google.com/presentation/d/1g7G-_5EOp96oM6bxpUg-uwtAGxXHpfEzB_-vG2oRucQ/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.a5uefmyb39f7"
+      due:
+    - date: 2/24
+      format: Paper discussion
+      theme: Privacy
+      topics: Paper discussion
+      slides: "https://docs.google.com/presentation/d/1QTelOMav9LbuyYi3dFDTMjmgg2YFkyufLIkY0KeGdxA/edit#slide=id.p"
+      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.vc0d3jxd7sxj"
+      due: Ethics review due
+
+- week: 9
+  days:
+    - date: 3/1
+      format: Lecture + paper discussion
+      theme: Green NLP
+      topics: <a href="https://docs.google.com/presentation/d/1OmyQtn8ZoE7SOC6o8HbePRoNlSC2JK1BdDgFYrkFnks/edit#slide=id.gcfec9c4d01_1_65">Feedback on ethics reviews</a>, paper discussion
+      slides: "https://docs.google.com/presentation/d/1jipJwetAoZyzc7dz4hPKd_bcnoSyWhua_DC-Qqxqulc/edit#slide=id.p"
+      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.vqdjsvmt3zbb"
+      due:
+    - date: 3/3
+      format: Individual Meetings
+      theme: Project Meetings
+      topics: Class is canceled; schedule individual meetings with Julian and Yulia on projects
+      readings:
+      due:
+
+- week: 10
+  days:
+    - date: 3/8
+      format: Project Presentations
+      theme: Project Presentations
+      topics: <a href="https://docs.google.com/spreadsheets/d/1SWs-Mo_UEdWbTI5HtxveZxvpbHmcmGmuMM3vGatWnuI/edit#gid=0">Presentation schedule</a>
+      readings:
+      due:
+    - date: 3/10
+      format: Project Presentations
+      theme: Project Presentations
+      topics:  <a href="https://docs.google.com/spreadsheets/d/1SWs-Mo_UEdWbTI5HtxveZxvpbHmcmGmuMM3vGatWnuI/edit#gid=0">Presentation schedule</a>
+      readings:
+      due: Project proposal due Sunday, March 13th, 11:59pm
