@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Computational Ethics in NLP
+title: Local Explanations for Deep Learning Models
 nav_exclude: true
 toc: true
 seo:
   type: Course
-  name: Computational Ethics in NLP
+  name: Local Explanations for Deep Learning Models
 ---
 
 # {{ site.tagline }}

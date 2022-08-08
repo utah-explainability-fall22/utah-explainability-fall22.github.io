@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Local Explanations for Deep Learning Models
 tagline: Local Explanations for Deep Learning Models
-description: UofU CS 5966/6966, Fall 2022
+description: CS 5966/6966, Fall 2022
 author: Ana Marasović
 baseurl: # # the subpath of your site, e.g. /blog
 url: 'https://utah-explainability-fall22.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
