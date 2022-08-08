@@ -29,24 +29,12 @@ T/Th 10am-11:20am, CSE2 G04
 {% endfor %}
 {% endif %}
 
-Office hours are available on Zoom by appointment.
+Office hours are **TBD**.
 
 ## Announcements
 
-* **1/28: Remote until further notice.**
-  UW guidelines allow for a return to in-person instruction starting Feb.
-  But since the paper discussion format requires separating into small groups, we want to be mindful
-  of COVID considerations of physical distancing, and many of the classes will be focused on paper
-  discussion, we will be continuing to meet over Zoom until further notice.
-* **1/10: Remote for the rest of January.**
-  Following a recommendation from the University leadership, due to the rise of Omicron cases we'll
-  keep meeting on Zoom until the end of January. The instructors will not be on campus for office
-  hours, but will still be available by appointment on Zoom.
-* **1/3: First week is canceled.**
-  Due to unforeseen circumstances, the first week of class is canceled and the first lecture
-  will be held on Tuesday, 1/11. More details, including a link for the class Zoom meeting and
-  Mattermost workspace, have been sent via email. If you did not receive an email, please contact
-  the instructors.
+* **8/8: Course website is live.**
+  Welcome.
   
 ## Summary
 
@@ -57,8 +45,7 @@ As language technologies have become increasingly prevalent, there is a growing 
 * Privacy: algorithms for demographic inference, personality profiling, and anonymization of demographic and personal traits.
 * Civility in communication: techniques to monitor trolling, hate speech, abusive language, cyberbullying, toxic comments.
 * Democracy and the language of manipulation: approaches to identify propaganda and manipulation in news, to identify fake news, political framing.
-<!-- * NLP for Social Good: Low-resource NLP, applications for disaster response and monitoring diseases, medical applications, psychological counseling, interfaces for accessibility. -->
-<!-- * Multidisciplinary perspective: invited lectures from experts in behavioral and social sciences, rhetoric, etc. -->
+
 
 ## Calendar
 
