@@ -12,7 +12,7 @@ seo:
 {: .no_toc .mb-2 }
 {{ site.description }}
 <br>
-T/Th 10am-11:20am, CSE2 G04
+TuTh / 09:10AM-10:30AM, [GC 2781](https://map.utah.edu/index.html?code=GC)
 {: .fs-6 .fw-300 }
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
