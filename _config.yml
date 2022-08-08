@@ -19,6 +19,7 @@ description: UofU CS 5966/6966, Fall 2022
 author: Ana Marasović
 baseurl: # # the subpath of your site, e.g. /blog
 url: 'https://utah-explainability-fall22.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
+repository: 'utah-explainability-fall22/utah-explainability-fall22.github.io'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor", "DUTIES.md"]
 
 # Theme settings
