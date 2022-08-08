@@ -191,9 +191,6 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 $aside-bg-color: lighten($brand-color, 43%) !default;
 $aside-border-color:    $border-color-01 !default;
 
-$link-color: $red-000 !default;
-$btn-primary-color: $red-100 !default;
-
 .top-toc-title {
     @media screen and (min-width: $on-large) {
         display: none;
@@ -232,6 +229,7 @@ $btn-primary-color: $red-100 !default;
         top: 0;
         margin-right: $spacing-unit;
         width: $toc-panel-width;
+        height: 50px;
         flex-shrink: 0;
 
         line-height: $small-line-height;
