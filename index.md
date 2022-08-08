@@ -38,14 +38,16 @@ Office hours are **TBD**.
   
 ## Summary
 
-As language technologies have become increasingly prevalent, there is a growing awareness that decisions we make about our data, methods, and tools are often tied up with their impact on people and societies. This course introduces students to real-world applications of language technologies and the potential ethical implications associated with them. We discuss philosophical foundations of ethical research along with advanced state-of-the art techniques. Discussion topics include:
+Although neural models have obtained great success across various machine learning (ML) tasks in recent years, they are poorly understood. Consequently, people (including ML experts) have little perception of how to control ML systems they interact with and are typically left wondering:
 
-* Philosophical foundations: what is ethics, history, medical and psychological experiments, IRB and human subjects, ethical decision making.
-* Misrepresentation and bias: algorithms to identify biases in models and data and adversarial approaches to debiasing.
-* Privacy: algorithms for demographic inference, personality profiling, and anonymization of demographic and personal traits.
-* Civility in communication: techniques to monitor trolling, hate speech, abusive language, cyberbullying, toxic comments.
-* Democracy and the language of manipulation: approaches to identify propaganda and manipulation in news, to identify fake news, political framing.
+* Which part of the input led to assigning this answer?            
+* How to change the answer to another?                           
+* In plain English, why is this input assigned this label?                        
+* Which training examples caused the prediction?                      
 
+In the first part of this course, we’ll go over methods that aim to address these questions. These methods are developed by machine learning researchers, usually without involving experts in other fields and human subjects such as doctors or fact checkers. In the second part of this course, we will revisit evaluation of these methods and focus on how to develop and evaluate methods that best accomplish a specific utility of explanations (e.g., they speed-up information search of a fact checker collaborating with a ML model, reduce cognitive load, etc.). Such methods are developed by considering how people explain between each other (extensively studied by social sciences) and conducting application-grounded human-subject evaluations that are common in HCI.  
+
+Methods and examples in this course will heavily focus on Natural Language Processing (NLP) and Computer Vision (specifically images). This course will not cover global methods that analyze models’ average behavior and internals. 
 
 ## Calendar
 
