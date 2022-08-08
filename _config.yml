@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Local Explanations for Deep Learning Models
+title: Local Explan gations for Deep Learning Models
 tagline: Local Explanations for Deep Learning Models
 description: CS 5966/6966, Fall 2022
 author: Ana Marasović
@@ -25,7 +25,7 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor", "DUTIES.m
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.3.3
 # theme: minima
-color_scheme: light
+color_scheme: foo
 search_enabled: true
 heading_anchors: true
 permalink: pretty
