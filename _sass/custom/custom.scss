@@ -6,7 +6,7 @@
 @import 'module';
 @import 'schedule';
 @import 'staffer';
-@import './color_schemes/red.scss'
+@import './custom/color_schemes/red.scss'
 
 // Overrides
 a abbr[title] {
@@ -230,7 +230,6 @@ $aside-border-color:    $border-color-01 !default;
         top: 0;
         margin-right: $spacing-unit;
         width: $toc-panel-width;
-        height: 50px;
         flex-shrink: 0;
 
         line-height: $small-line-height;
