@@ -162,7 +162,13 @@ For both assignments and the project, you should cite all sources that you refer
 to. This includes personal communication, books, papers, websites, etc. Doing so
 reflects academic integrity.
 
+* **The Americans with Disabilities Act.** The University of Utah seeks to provide equal access to its programs, services and activities for people with disabilities. If you will need accommodations in the class, reasonable prior notice needs to be given to the [Center for Disability and Access](http://disability.utah.edu). CDA will work with you and the instructor to make arrangements for accommodations. Accommodations cannot be given without paperwork from this office.
 
+* **University Safety Statement.** The University of Utah values the safety of all campus community members. To report suspicious activity or to request a courtesy escort, call campus police at 801-585-COPS or 801-585-2677. You will receive important emergency alerts and safety messages regarding campus safety via text message. For more information regarding safety and to view available training resources, including helpful videos, visit [safeu.utah.edu](https://safeu.utah.edu).
+
+* **Addressing Sexual Misconduct.** Title IX makes it clear that violence and harassment based on sex and gender (which includes sexual orientation and gender identity/expression) is a civil rights offense subject to the same kinds of accountability and the same kinds of support applied to offenses against other protected categories such as race, national origin, color, religion, age, status as a person with a disability, veteran's status or genetic information.
+
+If you, or someone you know, are harassed or assaulted, you are encouraged to report it to the Title IX Coordinator in the Office of Equal Opportunity and Affirmative Action, 135 Park Building, 801-581-8365, or the Office of the Dean of Students, 270 Union Building, 801-581-7066. For support and confidential consultation, contact the Center for Student Wellness, 426 SSB, 801-581-7776. To report to the police, contact the Department of Public Safety, 801-585-COPS or 801-585-2677.
 
 ## Note to Students
 
