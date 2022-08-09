@@ -134,9 +134,35 @@ There will be three components to course grades.
 
 <!-- * **Late policy.** Students will have 4 late days that may be used for HW assignments at any point during the semseter. Late days may not be used for project benchmarks. After all late days have been used, no credit will be given for homework submitted late. -->
 
-* **Academic honesty.** Homework assignments are to be completed individually. Verbal collaboration on homework assignments is acceptable, as well as re-implementation of relevant algorithms from research papers, but everything you turn in must be your own work, and you must note the names of anyone you collaborated with on each problem and cite resources that you used to learn about the problem. The project proposal is to be completed by a team. Suspected violations of academic integrity rules will be handled in accordance with [UW guidelines](https://www.washington.edu/cssc/for-students/overview-of-the-student-conduct-process/) on academic misconduct.
+* **Late policy.** All submissions should be made by the deadline. We will use the timestamp on Canvas as the submission time. Submissions will be accepted up to 24 hours after deadline, but will be assessed a 10% penalty. That is, if your submission is late and scores 90, then your actual grade will be 81 = 90 - 9. Submissions will not be accepted 24 hours after the deadline. We will be strict about this policy: If the deadline is midnight and you submit the assignment at 12:01 AM, you will face the 10% penalty!
 
-* **Accommodations.** If you have a disability and have an accommodations letter from the Disability Resources office, I encourage you to discuss your accommodations and needs with me as early in the semester as possible. I will work with you to ensure that accommodations are provided as appropriate. If you suspect that you may have a disability and would benefit from accommodations but are not yet registered with the office of Disability Resources for Students, I encourage you to apply [here](https://denali.accessiblelearning.com/Washington/ApplicationStudent.aspx).
+* **No double dipping projects across multiple classes.** You can not submit the same project to this class and another class that you may be taking at the same time. If you are doing related projects in two different classes, there may be some overlap (e.g. in code libraries, etc.), but they should not be identical. A project that is found to be double-submitted will receive zero credit. If you have questions about this policy, please contact the instructor.
+
+* **School of Computing Policies and Guidelines.** The class operates under the School of Computing’s [policies and guidelines](https://handbook.cs.utah.edu/2019-2020/Academics/policies.php). Among other things, linked page provides information about the [academic misconduct policy](https://www.cs.utah.edu/docs/misc/cheating_policy.pdf) that we will adhere to. Also see the [College of Engineering guidelines](https://www.coe.utah.edu/students/current/semester-guidelines/) for information about appeals procedures, withdrawal procedures, and adding and repeating courses.
+
+* **Collaboration and Cheating.** Collaboration is encouraged; cheating will not be tolerated. 
+
+*<center><u>Honor code for this class</u></center>*
+ 
+> You are encouraged to discuss class materials with your peers. If you want you
+> can form study groups because discussions help understanding. You are also
+> welcome to discuss assignments.
+> 
+> However, you must write your own solutions, proofs and code and submit your
+> own solution. Do not copy or ask for assignments from other students or the
+> internet. Do not let someone else copy your submissions either.
+
+If you are caught cheating once, you *will* receive a failing grade for that
+submission. If you are caught cheating again, you will fail the class.
+ 
+For projects, you are free to discuss the project with your classmates, but your
+work should be your own.
+ 
+For both assignments and the project, you should cite all sources that you refer
+to. This includes personal communication, books, papers, websites, etc. Doing so
+reflects academic integrity.
+
+
 
 ## Note to Students
 
