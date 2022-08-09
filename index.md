@@ -45,7 +45,9 @@ Although neural models have obtained great success across various machine learni
 * In plain English, why is this input assigned this label?                        
 * Which training examples caused the prediction?                      
 
-In the first part of this course, we'll go over methods that aim to address these questions. These methods are developed by ML researchers, usually without involving experts in other fields and human subjects such as doctors or fact checkers. In the second part of this course, we will revisit evaluation of these methods and focus on how to develop and evaluate methods that best accomplish a specific utility of explanations (e.g., they speed-up information search of a fact checker collaborating with a ML model, reduce cognitive load, etc.). Such methods are developed by considering how people explain between each other (extensively studied by social sciences) and conducting application-grounded human-subject evaluations that are common in HCI.  
+In the first part of this course, we'll go over methods that aim to address these questions. These methods are developed by ML researchers, usually without involving experts in other fields and human subjects such as doctors or fact checkers. 
+
+In the second part of this course, we will revisit evaluation of these methods and focus on how to develop and evaluate methods that best accomplish a specific utility of explanations (e.g., they speed-up information search of a fact checker collaborating with a ML model, reduce cognitive load, etc.). Such methods are developed by considering how people explain between each other (extensively studied by social sciences) and conducting application-grounded human-subject evaluations that are common in HCI.  
 
 Methods and examples in this course will heavily focus on **Natural Language Processing (NLP)** and **Computer Vision (specifically images)**. This course will _not_ cover global methods that analyze models' average behavior and internals. 
 
