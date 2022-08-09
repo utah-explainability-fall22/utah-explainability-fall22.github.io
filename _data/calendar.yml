@@ -9,20 +9,20 @@
     - date: 8/25
       theme: Background
       topics: TBA
-      slides: ""
+      slides: "https://docs.google.com/presentation/d/1WaafzVKzSPPaMkpzjqviDHzJRAwe_gQfonPy6JV8oOw/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.6pyopwzbx5rj"
 
 - week: 2
   days:
     - date: 8/30
       format: Lecture (Ana)
-      theme: "Which part of the input led to a prediction?"
+      theme: "**Which part of the input led to a prediction?**"
       topics: "Gradient-based explanations"
       slides: ""
       readings: ""
     - date: 9/1
       format: Paper discussion
-      theme: Which part of the input led to a prediction? 
+      theme: cont.
       topics: "Gradient-based explanations"
       slides: ""
       readings: ""
@@ -31,14 +31,14 @@
   days:
     - date: 9/6
       format: Lecture (Ana)
-      theme: Which part of the input led to a prediction? 
+      theme: cont.
       topics: "Attention-based expanations"
       slides: ""
       readings: ""
       due:
     - date: 9/8
       format: Paper discussion
-      theme: Which part of the input led to a prediction? 
+      theme: cont.
       topics: "Attention-based explanations"
       slides: ""
       readings: ""
