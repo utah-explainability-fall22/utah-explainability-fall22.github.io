@@ -2,12 +2,12 @@
   days:
     - date: 8/23
       format:
-      theme: Introduction
+      theme: <b>Introduction</b>
       topics: Motivation, course overview, and requirements; examples of projects 
       slides: "https://docs.google.com/presentation/d/10RsWtvbxtDDhVY1xA6A7ANUq9EaTJf9FPRdPOnyC7C0/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.b8r9reyfo1o3"
     - date: 8/25
-      theme: Background
+      theme: <b>Background</b>
       topics: TBA
       slides: "https://docs.google.com/presentation/d/1WaafzVKzSPPaMkpzjqviDHzJRAwe_gQfonPy6JV8oOw/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.6pyopwzbx5rj"
@@ -50,14 +50,14 @@
     - date: 9/13
       format: Lecture (Ana)
       theme: cont.
-      topics: "Select-then-predict"
+      topics: "Select-then-predict; faithfulness"
       slides: "https://docs.google.com/presentation/d/1u2jYv3mNe380Trxu4WN58Xlyl0iYmRG7jhGkr9q-ZbY/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.1ycmlx7vrf1z"
       due:
     - date: 9/15
       format: Paper discussion
       theme: cont.
-      topics: "Select-then-predict"
+      topics: "Select-then-predict; faithfulness"
       slides: "https://docs.google.com/presentation/d/1-kb4jai_3S9_1_nsa15G-S2WxH2jxK9G8hWJy0slycE/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.v2twnae26of1"
       due:
@@ -65,36 +65,36 @@
 - week: 5
   days:
     - date: 9/20
-      format: Which part of the input should be changed to change the prediction to a given label? 
-      theme: Social bias in NLP models
-      topics: Paper discussion # Detecting and countering gender and racial bias in NLP models
-      slides: "https://docs.google.com/presentation/d/1z1i-pKDkO99VAoSIvnuU25yDUctThojjXRyBCN3chB8/edit#slide=id.p"
-      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.fvkdj6qqczvc"
+      format: Lecture (Ana) 
+      theme: <b>Which part of the input should be changed to change the prediction to a given label?</b> 
+      topics: Contrastive editing; contrastive vector representation
+      slides: "https://docs.google.com/presentation/d/1-ZtbrHDJbgkCfdISoSSZUkvzEku_d-mcKRv1-6_3K8I/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.8jeqy3pr3o9m"
       due:
-    - date: 2/3
+    - date: 9/22
       format: Paper discussion
-      theme: NLP for detecting bias and stereotypes
-      topics: Paper discussion
-      slides: "https://docs.google.com/presentation/d/1Z6Ekh09s4RCRwhkmc4j02ErJKQn49wSdaYbAl_rYa44/edit#slide=id.p"
-      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.5i6neowr4kma"
+      theme: cont.
+      topics: Other contrastive explanations
+      slides: "https://docs.google.com/presentation/d/1PSq8xXiYCaKZlj1bKmVZAJZWbXjD1AWbCiWZNbuz87g/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.ydpr7ovwqn1"
       due:
 
 - week: 6
   days:
-    - date: 2/8
-      format: Lecture (Yulia)
-      theme: Hate speech
-      topics: NLP for identifying and countering hate speech/toxicity/abuse
-      slides: "https://docs.google.com/presentation/d/133RJh2L9BXzFO4R6B0fw07U8SgAPeufHomzyXHGeA2I/edit"
-      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.evt5ar8ohk9f"
-      due: Assign papers for ethics review
-    - date: 2/10
+    - date: 9/27
+      format: Lecture (Ana)
+      theme: <b>In plain English, why is this input assigned this label?</b>
+      topics: Free-text explanations
+      slides: "https://docs.google.com/presentation/d/1Zk4A0qaZv9CV5zyRE5iL5kApJbLsFFt5gXekoPwDJkU/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.mxnlvvaiy6ho"
+      due: 
+    - date: 9/29
       format: Paper discussion
-      theme: Hate speech
+      theme: cont.
       topics: Paper discussion
-      slides: "https://docs.google.com/presentation/d/1-Epq1x2gPAo8F27yfhDtmE6cqY2oBnF-9kPE82KJKpI/edit"
-      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.70jug8732d29"
-      due: Project pre-proposal due
+      slides: "https://docs.google.com/presentation/d/15I-TI7MSyxvBEiplD3w5DCkRaMsREf0GtJCKcGIH4aw/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.pe11brh8czxg"
+      due: 
 
 - week: 7
   days:
@@ -102,15 +102,15 @@
       format: Lecture (Anjalie)
       theme: Misinformation
       topics: NLP for fact-checking and fake news detection, computational propaganda and political misinformation
-      slides: "https://docs.google.com/presentation/d/1yDVEiWER9AXAD8MLzr3XO0GFgQQnDW9Ri-_Ein84JOA/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.kf5liby5ax9m"
+      slides: ""
+      readings: ""
       due:
     - date: 2/17
       format: Paper discussion
       theme: Misinformation
       topics: Paper discussion
-      slides: "https://docs.google.com/presentation/d/1dYtOLKok5l_AdWskeTRHxIglNsg4AjWToVOMIVKKOek/edit"
-      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.wfktesz4zauk"
+      slides: ""
+      readings: ""
       due:
 
 - week: 8
@@ -119,15 +119,15 @@
       format: Lecture (Patricia Thaine)
       theme: Privacy
       topics: Privacy and anonymity in NLP, writer profiling and adversarial defenses
-      slides: "https://docs.google.com/presentation/d/1g7G-_5EOp96oM6bxpUg-uwtAGxXHpfEzB_-vG2oRucQ/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.a5uefmyb39f7"
+      slides: ""
+      readings: ""
       due:
     - date: 2/24
       format: Paper discussion
       theme: Privacy
       topics: Paper discussion
-      slides: "https://docs.google.com/presentation/d/1QTelOMav9LbuyYi3dFDTMjmgg2YFkyufLIkY0KeGdxA/edit#slide=id.p"
-      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.vc0d3jxd7sxj"
+      slides: ""
+      readings: ""
       due: Ethics review due
 
 - week: 9
@@ -136,14 +136,15 @@
       format: Lecture + paper discussion
       theme: Green NLP
       topics: <a href="https://docs.google.com/presentation/d/1OmyQtn8ZoE7SOC6o8HbePRoNlSC2JK1BdDgFYrkFnks/edit#slide=id.gcfec9c4d01_1_65">Feedback on ethics reviews</a>, paper discussion
-      slides: "https://docs.google.com/presentation/d/1jipJwetAoZyzc7dz4hPKd_bcnoSyWhua_DC-Qqxqulc/edit#slide=id.p"
-      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.vqdjsvmt3zbb"
+      slides: ""
+      readings: ""
       due:
     - date: 3/3
       format: Individual Meetings
       theme: Project Meetings
       topics: Class is canceled; schedule individual meetings with Julian and Yulia on projects
-      readings:
+      slides: ""
+      readings: ""
       due:
 
 - week: 10
