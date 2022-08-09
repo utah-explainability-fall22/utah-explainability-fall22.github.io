@@ -16,10 +16,7 @@
   days:
     - date: 8/30
       format: Lecture (Ana)
-      bold: 
-      - Which part of the input led to a prediction?
-      theme: |
-        Which part of the input led to a prediction?
+      theme: Which part of the input led to a prediction?
       topics: "Gradient-based post-hoc explanations"
       slides: "https://docs.google.com/presentation/d/1OVCi6m3Gsu_ipyOffY0G96VelhSpQ0UunPR0PDx-2X8/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.qx588ye5unv9"
