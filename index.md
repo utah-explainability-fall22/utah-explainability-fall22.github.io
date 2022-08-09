@@ -134,13 +134,27 @@ There will be three components to course grades.
 
 <!-- * **Late policy.** Students will have 4 late days that may be used for HW assignments at any point during the semseter. Late days may not be used for project benchmarks. After all late days have been used, no credit will be given for homework submitted late. -->
 
-* **Late policy.** All submissions should be made by the deadline. We will use the timestamp on Canvas as the submission time. Submissions will be accepted up to 24 hours after deadline, but will be assessed a 10% penalty. That is, if your submission is late and scores 90, then your actual grade will be 81 = 90 - 9. Submissions will not be accepted 24 hours after the deadline. We will be strict about this policy: If the deadline is midnight and you submit the assignment at 12:01 AM, you will face the 10% penalty!
+### Late Policy
 
-* **No double dipping projects across multiple classes.** You can not submit the same project to this class and another class that you may be taking at the same time. If you are doing related projects in two different classes, there may be some overlap (e.g. in code libraries, etc.), but they should not be identical. A project that is found to be double-submitted will receive zero credit. If you have questions about this policy, please contact the instructor.
+ All submissions should be made by the deadline. We will use the timestamp on Canvas as the submission time. Submissions will be accepted up to 24 hours after deadline, but will be assessed a 10% penalty. That is, if your submission is late and scores 90, then your actual grade will be 81 = 90 - 9. 
+ 
+ Submissions will not be accepted 24 hours after the deadline. 
+ 
+ We will be strict about this policy: If the deadline is midnight and you submit the assignment at 12:01 AM, you will face the 10% penalty!
 
-* **School of Computing Policies and Guidelines.** The class operates under the School of Computing’s [policies and guidelines](https://handbook.cs.utah.edu/2019-2020/Academics/policies.php). Among other things, linked page provides information about the [academic misconduct policy](https://www.cs.utah.edu/docs/misc/cheating_policy.pdf) that we will adhere to. Also see the [College of Engineering guidelines](https://www.coe.utah.edu/students/current/semester-guidelines/) for information about appeals procedures, withdrawal procedures, and adding and repeating courses.
+### No double dipping projects across multiple classes
 
-* **Collaboration and Cheating.** Collaboration is encouraged; cheating will not be tolerated. 
+You can not submit the same project to this class and another class that you may be taking at the same time. If you are doing related projects in two different classes, there may be some overlap (e.g. in code libraries, etc.), but they should not be identical. A project that is found to be double-submitted will receive zero credit. If you have questions about this policy, please contact the instructor.
+
+### School of Computing Policies and Guidelines  
+
+The class operates under the School of Computing’s [policies and guidelines](https://handbook.cs.utah.edu/2019-2020/Academics/policies.php). Among other things, linked page provides information about the [academic misconduct policy](https://www.cs.utah.edu/docs/misc/cheating_policy.pdf) that we will adhere to. 
+
+Also see the [College of Engineering guidelines](https://www.coe.utah.edu/students/current/semester-guidelines/) for information about appeals procedures, withdrawal procedures, and adding and repeating courses.
+
+### Collaboration and Cheating
+
+Collaboration is encouraged; cheating will not be tolerated. 
 
 *<center><u>Honor code for this class</u></center>*
  
@@ -148,7 +162,7 @@ There will be three components to course grades.
 > can form study groups because discussions help understanding. You are also
 > welcome to discuss assignments.
 > 
-> However, you must write your own solutions, proofs and code and submit your
+> However, you must write your own solutions, proofs, and code and submit your
 > own solution. Do not copy or ask for assignments from other students or the
 > internet. Do not let someone else copy your submissions either.
 
@@ -162,17 +176,30 @@ For both assignments and the project, you should cite all sources that you refer
 to. This includes personal communication, books, papers, websites, etc. Doing so
 reflects academic integrity.
 
-* **The Americans with Disabilities Act.** The University of Utah seeks to provide equal access to its programs, services and activities for people with disabilities. If you will need accommodations in the class, reasonable prior notice needs to be given to the [Center for Disability and Access](http://disability.utah.edu). CDA will work with you and the instructor to make arrangements for accommodations. Accommodations cannot be given without paperwork from this office.
+### The Americans with Disabilities Act
 
-* **University Safety Statement.** The University of Utah values the safety of all campus community members. To report suspicious activity or to request a courtesy escort, call campus police at 801-585-COPS or 801-585-2677. You will receive important emergency alerts and safety messages regarding campus safety via text message. For more information regarding safety and to view available training resources, including helpful videos, visit [safeu.utah.edu](https://safeu.utah.edu).
+The University of Utah seeks to provide equal access to its programs, services and activities for people with disabilities. If you will need accommodations in the class, reasonable prior notice needs to be given to the [Center for Disability and Access](http://disability.utah.edu). CDA will work with you and the instructor to make arrangements for accommodations. Accommodations cannot be given without paperwork from this office.
 
-* **Addressing Sexual Misconduct.** Title IX makes it clear that violence and harassment based on sex and gender (which includes sexual orientation and gender identity/expression) is a civil rights offense subject to the same kinds of accountability and the same kinds of support applied to offenses against other protected categories such as race, national origin, color, religion, age, status as a person with a disability, veteran's status or genetic information.
+### University Safety Statement 
+
+The University of Utah values the safety of all campus community members. To report suspicious activity or to request a courtesy escort, call campus police at 801-585-COPS or 801-585-2677. You will receive important emergency alerts and safety messages regarding campus safety via text message. For more information regarding safety and to view available training resources, including helpful videos, visit [safeu.utah.edu](https://safeu.utah.edu).
+
+### Addressing Sexual Misconduct
+
+Title IX makes it clear that violence and harassment based on sex and gender (which includes sexual orientation and gender identity/expression) is a civil rights offense subject to the same kinds of accountability and the same kinds of support applied to offenses against other protected categories such as race, national origin, color, religion, age, status as a person with a disability, veteran's status or genetic information.
 
 If you, or someone you know, are harassed or assaulted, you are encouraged to report it to the Title IX Coordinator in the Office of Equal Opportunity and Affirmative Action, 135 Park Building, 801-581-8365, or the Office of the Dean of Students, 270 Union Building, 801-581-7066. For support and confidential consultation, contact the Center for Student Wellness, 426 SSB, 801-581-7776. To report to the police, contact the Department of Public Safety, 801-585-COPS or 801-585-2677.
 
-## Note to Students
+### Wellness
 
-Take care of yourself! As a student, you may experience a range of challenges that can interfere with learning, such as strained relationships, increased anxiety, substance use, feeling down, difficulty concentrating and/or lack of motivation. All of us benefit from support during times of struggle. There are many helpful resources available on campus and an important part of having a healthy life is learning how to ask for help. Asking for support sooner rather than later is almost always helpful. UW services are available, and treatment does work. You can learn more about confidential mental health services available on campus [here](https://www.washington.edu/counseling/). Crisis services are available from the counseling center 24/7 by phone at 1 (866) 743-7732 ([more details here](https://www.washington.edu/counseling/services/crisis/)).
+Take care of yourself! As a student, you may experience a range of challenges that can interfere with learning, such as strained relationships, increased anxiety, substance use, feeling down, difficulty concentrating and/or lack of motivation. All of us benefit from support during times of struggle. There are many helpful resources available on campus and an important part of having a healthy life is learning how to ask for help. Asking for support sooner rather than later is almost always helpful. 
+
+You can learn more about confidential mental health services available on campus:
+
+* [Center for Student Wellness](https://www.wellness.utah.edu) 
+* [College of Engineering counseling services](https://www.coe.utah.edu/students/current/counseling/)
+
+Crisis services are available from the [National Suicide Prevention Lifeline network](https://988lifeline.org/) 24/7 by phone at 988 ([more details here](https://healthcare.utah.edu/hmhi/programs/crisis-diversion/)).
 
 ## COVID-19 Safety
 
