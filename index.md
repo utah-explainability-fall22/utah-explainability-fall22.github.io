@@ -45,9 +45,9 @@ Although neural models have obtained great success across various machine learni
 * In plain English, why is this input assigned this label?                        
 * Which training examples caused the prediction?                      
 
-In the first part of this course, we’ll go over methods that aim to address these questions. These methods are developed by ML researchers, usually without involving experts in other fields and human subjects such as doctors or fact checkers. In the second part of this course, we will revisit evaluation of these methods and focus on how to develop and evaluate methods that best accomplish a specific utility of explanations (e.g., they speed-up information search of a fact checker collaborating with a ML model, reduce cognitive load, etc.). Such methods are developed by considering how people explain between each other (extensively studied by social sciences) and conducting application-grounded human-subject evaluations that are common in HCI.  
+In the first part of this course, we'll go over methods that aim to address these questions. These methods are developed by ML researchers, usually without involving experts in other fields and human subjects such as doctors or fact checkers. In the second part of this course, we will revisit evaluation of these methods and focus on how to develop and evaluate methods that best accomplish a specific utility of explanations (e.g., they speed-up information search of a fact checker collaborating with a ML model, reduce cognitive load, etc.). Such methods are developed by considering how people explain between each other (extensively studied by social sciences) and conducting application-grounded human-subject evaluations that are common in HCI.  
 
-Methods and examples in this course will heavily focus on Natural Language Processing (NLP) and Computer Vision (specifically images). This course will not cover global methods that analyze models’ average behavior and internals. 
+Methods and examples in this course will heavily focus on Natural Language Processing (NLP) and Computer Vision (specifically images). This course will not cover global methods that analyze models' average behavior and internals. 
 
 ## Calendar
 
@@ -148,7 +148,7 @@ You can not submit the same project to this class and another class that you may
 
 ### School of Computing Policies and Guidelines  
 
-The class operates under the School of Computing’s [policies and guidelines](https://handbook.cs.utah.edu/2019-2020/Academics/policies.php). Among other things, linked page provides information about the [academic misconduct policy](https://www.cs.utah.edu/docs/misc/cheating_policy.pdf) that we will adhere to. 
+The class operates under the School of Computing's [policies and guidelines](https://handbook.cs.utah.edu/2019-2020/Academics/policies.php). Among other things, linked page provides information about the [academic misconduct policy](https://www.cs.utah.edu/docs/misc/cheating_policy.pdf) that we will adhere to. 
 
 Also see the [College of Engineering guidelines](https://www.coe.utah.edu/students/current/semester-guidelines/) for information about appeals procedures, withdrawal procedures, and adding and repeating courses.
 
@@ -203,4 +203,4 @@ Crisis services are available from the [National Suicide Prevention Lifeline net
 
 ### Diversity
 
-It is our intent that students from all diverse backgrounds and perspectives be well-served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength and benefit. It is our intent to present materials and activities that are respectful of diversity: gender identity sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. Your suggestions are encouraged and appreciated. Please let us know ways to improve the effectiveness of the course for you personally, or for other students or student groups.
+It is our intent that students from all diverse backgrounds and perspectives be well-served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength and benefit. It is our intent to present materials and activities that are respectful of diversity: gender identity sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. Your suggestions are encouraged and appreciated. Please let us know ways to improve the effectiveness of the course for you personally, or for other students or student groups.
