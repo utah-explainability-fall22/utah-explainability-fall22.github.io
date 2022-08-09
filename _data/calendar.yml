@@ -19,7 +19,7 @@
       bold: 
       - Which part of the input led to a prediction?
       theme: |
-        "Which part of the input led to a prediction?"
+        Which part of the input led to a prediction?
       topics: "Gradient-based post-hoc explanations"
       slides: "https://docs.google.com/presentation/d/1OVCi6m3Gsu_ipyOffY0G96VelhSpQ0UunPR0PDx-2X8/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.qx588ye5unv9"
@@ -61,14 +61,14 @@
       format: Paper discussion
       theme: cont.
       topics: "Select-then-predict"
-      slides: "https://docs.google.com/presentation/d/1-pYej6h89mBuFAyN7bfvG5YPRwdgPBVS8xe1K0ccP0s/edit?usp=sharing"
-      readings:
+      slides: "https://docs.google.com/presentation/d/1-kb4jai_3S9_1_nsa15G-S2WxH2jxK9G8hWJy0slycE/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.v2twnae26of1"
       due:
 
 - week: 5
   days:
-    - date: 2/1
-      format: Paper discussion
+    - date: 9/20
+      format: Which part of the input should be changed to change the prediction to a given label? 
       theme: Social bias in NLP models
       topics: Paper discussion # Detecting and countering gender and racial bias in NLP models
       slides: "https://docs.google.com/presentation/d/1z1i-pKDkO99VAoSIvnuU25yDUctThojjXRyBCN3chB8/edit#slide=id.p"
