@@ -1,17 +1,20 @@
 - week: 1
   days:
-    - date: 1/04
+    - date: 8/23
       format:
-      theme: Cancelled
-    - date: 1/06
-      theme: Cancelled
-      topics:
+      theme: Introduction
+      topics: Motivation, course overview, and requirements; examples of projects 
+      slides: ""
+    - date: 8/25
+      theme: Background
+      topics: TBA
+      slides: ""
 
 - week: 2
   days:
     - date: 1/11
-      format: Lecture (Yulia)
-      theme: Introduction
+      format: Lecture (Ana)
+      theme: Which part of the input led to a prediction? 
       topics: Motivation, course overview and requirements, examples of projects in computational ethics 
       slides: "https://docs.google.com/presentation/d/1tj3-GurBX2qv2eiIgBgi1H_JYOImN3e4SqZJpvGCaGc/edit"
       readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.yf5kektle33k"

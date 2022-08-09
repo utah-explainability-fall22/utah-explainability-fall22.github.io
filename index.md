@@ -52,7 +52,7 @@ Methods and examples in this course will heavily focus on **Natural Language Pro
 ## Calendar
 
 Calendar is tentative and subject to change.
-More details will be added as the quarter continues.
+More details will be added as the semester continues.
 
 <table>
   <thead>
