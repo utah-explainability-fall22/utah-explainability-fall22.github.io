@@ -4,11 +4,13 @@
       format:
       theme: Introduction
       topics: Motivation, course overview, and requirements; examples of projects 
-      slides: ""
+      slides: "https://docs.google.com/presentation/d/10RsWtvbxtDDhVY1xA6A7ANUq9EaTJf9FPRdPOnyC7C0/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.b8r9reyfo1o3"
     - date: 8/25
       theme: Background
       topics: TBA
       slides: ""
+      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.6pyopwzbx5rj"
 
 - week: 2
   days:
