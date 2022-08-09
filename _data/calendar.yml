@@ -16,48 +16,51 @@
   days:
     - date: 8/30
       format: Lecture (Ana)
-      theme: "**Which part of the input led to a prediction?**"
-      topics: "Gradient-based explanations"
-      slides: ""
-      readings: ""
+      bold: 
+      - Which part of the input led to a prediction?
+      theme: |
+        "Which part of the input led to a prediction?"
+      topics: "Gradient-based post-hoc explanations"
+      slides: "https://docs.google.com/presentation/d/1OVCi6m3Gsu_ipyOffY0G96VelhSpQ0UunPR0PDx-2X8/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.qx588ye5unv9"
     - date: 9/1
       format: Paper discussion
       theme: cont.
-      topics: "Gradient-based explanations"
-      slides: ""
-      readings: ""
+      topics: "Gradient-based post-hoc explanations"
+      slides: "https://docs.google.com/presentation/d/1baM8inqgLiukBj_ZIBFAiPSRga6QE52zJK4u9UBC8TQ/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.9q1j09hgmbzz"
 
 - week: 3
   days:
     - date: 9/6
       format: Lecture (Ana)
       theme: cont.
-      topics: "Attention-based expanations"
-      slides: ""
-      readings: ""
+      topics: "Attention-based post-hoc expanations"
+      slides: "https://docs.google.com/presentation/d/1mAWAlgqWjeUG256IrOurBUeluzgyzbzeV7Dxpr3tsCA/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.ustsqod47o4a"
       due:
     - date: 9/8
       format: Paper discussion
       theme: cont.
-      topics: "Attention-based explanations"
+      topics: "Attention-based post-hoc explanations"
       slides: ""
-      readings: ""
+      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.wkkd4huoqdds"
       due:
 
 
 - week: 4
   days:
-    - date: 1/25
-      format: Paper discussion
-      theme: Philosophical Foundations
-      topics: Paper discussion
-      slides: "https://docs.google.com/presentation/d/1LVX_Mv_Zp_uxplFysmCG-G9mko32gkBnAdvvg4tcZc8/edit#slide=id.p"
-      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.l9t2fjaw58yc"
+    - date: 9/13
+      format: Lecture (Ana)
+      theme: cont.
+      topics: "Select-then-predict"
+      slides: "https://docs.google.com/presentation/d/1u2jYv3mNe380Trxu4WN58Xlyl0iYmRG7jhGkr9q-ZbY/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.1ycmlx7vrf1z"
       due:
-    - date: 1/27
-      format: Lecture (Yulia)
-      theme: Social bias and (un)fairness
-      topics: Psychological foundations of bias; social bias and disparities in NLP models
+    - date: 9/15
+      format: Paper discussion
+      theme: cont.
+      topics: "Select-then-predict"
       slides: "https://docs.google.com/presentation/d/1-pYej6h89mBuFAyN7bfvG5YPRwdgPBVS8xe1K0ccP0s/edit?usp=sharing"
       readings:
       due:
