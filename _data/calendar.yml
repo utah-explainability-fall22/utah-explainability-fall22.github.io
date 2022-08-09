@@ -12,34 +12,34 @@
 
 - week: 2
   days:
-    - date: 1/11
+    - date: 8/30
       format: Lecture (Ana)
+      theme: "Which part of the input led to a prediction?"
+      topics: "Gradient-based explanations"
+      slides: ""
+      readings: ""
+    - date: 9/1
+      format: Paper discussion
       theme: Which part of the input led to a prediction? 
-      topics: Motivation, course overview and requirements, examples of projects in computational ethics 
-      slides: "https://docs.google.com/presentation/d/1tj3-GurBX2qv2eiIgBgi1H_JYOImN3e4SqZJpvGCaGc/edit"
-      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.yf5kektle33k"
-    - date: 1/13
-      format: Lecture (Yulia)
-      theme: Human subjects
-      topics: "History: medical, psychological experiments, IRB and human subjects."
-      slides: "https://docs.google.com/presentation/d/16xo1yLSvU-lWx_X7B4T3zOLgdrN1bUGJvI91Epb-QJM/edit"
-      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.ku0hxeuseo4r"
+      topics: "Gradient-based explanations"
+      slides: ""
+      readings: ""
 
 - week: 3
   days:
-    - date: 1/18
-      format: Paper discussion
-      theme: Human Subjects
-      topics: Paper discussion
-      slides: "https://docs.google.com/presentation/d/1VEe5Kh6kDHPBg3qmx3hqi8_-UK4aGf_0yyI6saQMhOk/edit#slide=id.p"
-      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.wdxt2vmcorb2"
+    - date: 9/6
+      format: Lecture (Ana)
+      theme: Which part of the input led to a prediction? 
+      topics: "Attention-based expanations"
+      slides: ""
+      readings: ""
       due:
-    - date: 1/20
-      format: Lecture (Julian)
-      theme: Philosophical Foundations
-      topics: Ethical frameworks, benefit and harm, power, automation
-      slides: "https://docs.google.com/presentation/d/1z4QhDkcFRSZgxpMCaGH4QL1z_l4gkWJmEV5pBL7Wtw4/edit#slide=id.gcfec9c4d01_1_65"
-      readings: "https://docs.google.com/document/d/1p_8tzU8jgp0wHe4Cb2HWm8SEJ9IQU1p-kXpxlZjNdZ4/edit#bookmark=id.mkqmfyy3vjxz"
+    - date: 9/8
+      format: Paper discussion
+      theme: Which part of the input led to a prediction? 
+      topics: "Attention-based explanations"
+      slides: ""
+      readings: ""
       due:
 
 
