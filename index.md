@@ -40,7 +40,7 @@ Office hours are **TBD**.
 
 Although neural models have obtained great success across various machine learning (ML) tasks in recent years, they are poorly understood. Consequently, people (including ML experts) have little perception of how to control ML systems they interact with and are typically left wondering:
 
-* Which part of the input led to assigning this answer?            
+* Which part of the input led to assigning this label?            
 * How to change the answer to another?                           
 * In plain English, why is this input assigned this label?                        
 * Which training examples caused the prediction?                      
