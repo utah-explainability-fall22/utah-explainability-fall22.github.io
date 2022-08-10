@@ -119,11 +119,15 @@
       format: Break
       theme: Fall Break
       topics: 
+      slides: 
+      readings: 
       due:
     - date: 2/24
       format: Break
       theme: Fall Break
       topics: 
+      slides: 
+      readings:
       due: 
 
 - week: 9
