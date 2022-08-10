@@ -207,14 +207,14 @@
       topics: Advanced topics [TBA]
       slides: ""
       readings: ""
-      #due:
+      due:
     - date: 11/17
       format: Buffer
       theme:  <b>Buffer</b>
       topics: Advanced topics [TBA]
       slides: ""
       readings: ""
-      #due: Ask discussion questions by Nov 16, 11:59pm
+      due: 
 
 
 - week: 14
@@ -225,14 +225,14 @@
       topics: Class is canceled; schedule individual meetings with Ana and TA on projects
       slides: 
       readings: 
-      #due:
+      due:
     - date: 11/24
       format: Break
       theme:  <b><span style="color:green">Thanksgiving Break</span></b>
       topics: 
       slides: 
       readings: 
-      #due: 
+      due: 
 
 
 - week: 15
@@ -243,14 +243,14 @@
       topics: 
       slides: 
       readings: 
-      #due: <span style="color:purple">Everyone submits their presentations</span>
+      due: <span style="color:purple">Everyone submits their presentations</span>
     - date: 11/24
       format: Project Presentations
       theme:  <b><span style="color:purple">Project Presentations</span></b>
       topics: 
       slides: 
       readings: 
-      #due: 
+      due: 
 
 - week: 16
   days:
@@ -260,11 +260,11 @@
       topics:  
       slides: ""
       readings: "" 
-      #due: <b><span style="color:purple">Project report</span> 
+      due: <span style="color:purple">Project report</span> 
     - date: 12/8
       format: Break
       theme:  <b><span style="color:red">Classes End</span></b>
       topics: No class
       slides: 
       readings: 
-      #due: 
+      due: 
