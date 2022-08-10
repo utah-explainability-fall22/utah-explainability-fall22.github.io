@@ -37,14 +37,14 @@
       topics: "Attention-based post-hoc expanations"
       slides: "https://docs.google.com/presentation/d/1mAWAlgqWjeUG256IrOurBUeluzgyzbzeV7Dxpr3tsCA/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.ustsqod47o4a"
-      #due:
+      due:
     - date: 9/8
       format: Paper discussion
       theme: cont.
       topics: Paper discussion
       slides: ""
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.wkkd4huoqdds"
-      #due: <span style="color:purple">Project team information due</span>; Ask discussion questions by Sep 7, 11:59pm
+      due: <span style="color:purple">Project team information due</span>; Ask discussion questions by Sep 7, 11:59pm
 
 - week: 4
   days:
