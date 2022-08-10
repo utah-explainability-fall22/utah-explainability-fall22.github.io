@@ -42,7 +42,7 @@
       topics: Paper discussion
       slides: ""
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.wkkd4huoqdds"
-      due:
+      due: Project team information due
 
 
 - week: 4
@@ -60,7 +60,7 @@
       topics: Paper discussion
       slides: "https://docs.google.com/presentation/d/1-kb4jai_3S9_1_nsa15G-S2WxH2jxK9G8hWJy0slycE/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.v2twnae26of1"
-      due:
+      due: Papers assigned for review
 
 - week: 5
   days:
@@ -104,11 +104,11 @@
       topics: Influence functions
       slides: "https://docs.google.com/presentation/d/12v-YfYMXamkljM_KoLJBdIYI7ZrRulq0rj_65VV60DM/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.tq6ir8x57dds"
-      due:
+      due: Review due
     - date: 10/6
-      format: Paper discussion
+      format: Feedback + Paper discussion
       theme: cont.
-      topics: Paper discussion
+      topics: Feedback on reviews; Paper discussion
       slides: "https://docs.google.com/presentation/d/1V6a5cDWk4C_CpD7YdTXnqo29TvnIc2j86hgZ407YJlM/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.nb2ggnrkorjl"
       due:
@@ -145,7 +145,7 @@
       topics: Paper discussion
       slides: ""
       readings: ""
-      due:
+      due: Project proposals due
 
 - week: 10
   days:
@@ -179,7 +179,7 @@
       topics: Paper discussion
       slides: ""
       readings: ""
-      due: 
+      due: Project intermediate status report due
 
 - week: 12
   days:
@@ -242,7 +242,7 @@
       topics: 
       slides: 
       readings: 
-      due:
+      due: Everyone submits their presentations on this date
     - date: 11/24
       format: Project Presentations
       theme:  <b>Project Presentations</b>
@@ -259,7 +259,7 @@
       topics:  
       slides: ""
       readings: "" 
-      due:
+      due: Project report 
     - date: 12/8
       format: Break
       theme:  <b>Classes Ended</b>
