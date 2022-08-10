@@ -36,7 +36,7 @@ Office hours are **TBD**.
 * **8/8: Course website is live.**
   Welcome.
   
-## Summary
+## Description
 
 Although neural models have obtained great success across various machine learning (ML) tasks in recent years, they are poorly understood. Consequently, people (including ML experts) have little perception of how to control ML systems they interact with and are typically left wondering:
 
@@ -103,21 +103,20 @@ More details will be added as the semester continues.
 
 There will be three components to course grades.
 
-* **[Paper readings and discussion](assignments/paper_discussions/) (40%).**
-    * 30%: Submit discussion questions before class and participate regularly during class.
-    * 10%: Lead at least one discussion.
-* **[Ethics review](assignments/ethics_review/) (30%).** Review ethics reviewing guidelines and write an ethics review
-  for a research paper.
-* **Project proposal (30%).** Write a proposal for a research project in ethical AI.
-  * 2%: Pre-proposal: 1-2 paragraphs identifying the focus area of the project and team members.
-  * 20%: Proposal.
-  * 8%: Class presentation.
-  * **Bonus (15%):** Implement the proposed project.
 
-<!-- * Pre-proposal: A 1-2 paragraph document describing the focus area of the project and defining team members (Due 1/23) -->
-<!-- * Proposal: (7.5%) A 2-3 page document (ACL format) containing a literature review, concrete problem definition, identification of baseline models, and ideas for final models. Sections should include Introduction, Related Work, Data, Baseline, Proposed Approach. Baselines should be clearly defined but do not need to be implemented yet (Due 2/25) -->
-<!-- * Midterm Presentations: (7.5%) An in-class presentation of project and current progress. Presentation should include problem definition, baseline models and results, and description of proposed models (3/19-3/24) -->
-<!-- * Final Report and Presentations: (15%) In-class presentations of the project will be held during the final week of class. A final project report will be due the following week. The final report should be formated as a standard research paper with appropriate sections (ACL format, 8 pages) (Presentations 4/28-4/30; Report due 5/8) -->
+* **[Project](assignments/project/) (50%).**
+    * Form a project team and submit project team information (5%).
+    * Submit a project proposal: 1-2 paragraphs identifying the focus area of the project (10%).
+    * Submit intermediate status report (20%):
+      * The progress you have made towards your goal. (This cannot be just "We collected data".) (50%)
+      * Details of your plan for rest of the semester (30%)
+      * Pointers to literature (20%)
+    * Submit a project report (35%): A document no longer than 8 pages, structured like a research paper.
+    * Presentation (30%): Instead of the final exam, we will have a presentation of the projects in the class. More details as we go along.
+* **[Paper readings and discussion](assignments/paper_discussions/) (30%).**
+    * 20%: Submit discussion questions before class and participate regularly during class. Note that not every question gives you points (e.g., a questiton cannot be just "What's X?" where X is explicitly mentioned in the paper.)
+    * 10%: Lead at least one discussion.
+* **[Paper review](assignments/review/) (20%) Review ACL/EMNLP reviewing guidelines and write a review for a research paper in explainable AI.
 
 ## Policies
 
