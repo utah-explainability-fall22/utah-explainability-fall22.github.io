@@ -140,7 +140,7 @@ The class operates under the School of Computing's [policies and guidelines](htt
 
 Also see the [College of Engineering guidelines](https://www.coe.utah.edu/students/current/semester-guidelines/) for information about appeals procedures, withdrawal procedures, and adding and repeating courses.
 
-## University Drop/Withdrawal Policy 
+### University Drop/Withdrawal Policy 
 
 Students may drop a course within the first two weeks of a given semester without any penalties.
 
