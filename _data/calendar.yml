@@ -117,7 +117,7 @@
   days:
     - date: 10/11
       format: Break
-      theme: <b>Fall Break</b>
+      theme: <b><span style="color:green">Fall Break</span></b>
       topics: 
       slides: 
       readings: 
