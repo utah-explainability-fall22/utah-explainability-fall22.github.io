@@ -105,14 +105,14 @@
       topics: Influence functions
       slides: "https://docs.google.com/presentation/d/12v-YfYMXamkljM_KoLJBdIYI7ZrRulq0rj_65VV60DM/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.tq6ir8x57dds"
-      #due: <span style="color:orange">Review due</span>
+      due: <span style="color:orange">Review due</span>
     - date: 10/6
       format: Feedback + Paper discussion
       theme: cont.
       topics: <span style="color:orange">Feedback on reviews</span>; Paper discussion
       slides: "https://docs.google.com/presentation/d/1V6a5cDWk4C_CpD7YdTXnqo29TvnIc2j86hgZ407YJlM/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.nb2ggnrkorjl"
-      #due: Ask discussion questions by Oct 5, 11:59pm
+      due: Ask discussion questions by Oct 5, 11:59pm
 
 - week: 8
   days:
