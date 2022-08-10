@@ -155,14 +155,14 @@
       theme: <b>Application-grounded, human-subject evaluations of explanations</b>
       topics: Experimental design, use cases, and challenges
       slides: "https://docs.google.com/presentation/d/19O30zCh1WYAIJT1qg3bpWhD4JO30lcDM9Zfo3cPKFnY/edit?usp=sharing"
-      readings: ""
+      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.1b82wpbkj2l6"
       due:
     - date: 10/27
       format: Paper discussion
       theme: cont.
       topics: Paper discussion
       slides: "https://docs.google.com/presentation/d/1eVtqy4wQF3cTpLXtrC_LsWffF0qElLawO63stpLjrYI/edit?usp=sharing"
-      readings: ""
+      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.teczmiqz4yrb"
       due: Ask discussion questions by Oct 26, 11:59pm
 
 - week: 11
@@ -172,14 +172,14 @@
       theme: <b>Explainability as a dialog</b>
       topics: Principles, roadmap, risks, and research opportunities
       slides: "https://docs.google.com/presentation/d/11p9_0MGrbDdg2k9QJRSUHaH435eXVC6ccva5ldCnBgA/edit?usp=sharing"
-      readings: ""
+      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.z1e3q033casb"
       due:
     - date: 11/3
       format: Paper discussion
       theme: cont.
       topics: Paper discussion
       slides: "https://docs.google.com/presentation/d/1rE6HefOiuhMmGLXs-M5kLMZrTZL7lSQubj788TVm2n4/edit?usp=sharing"
-      readings: ""
+      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.pf3o9ph7a2f3"
       due: <span style="color:purple">Project intermediate status report due</span>; Ask discussion questions by Nov 2, 11:59pm
 
 - week: 12
@@ -188,15 +188,15 @@
       format: Lecture (Ana)
       theme: <b>Trust in AI</b>
       topics: Prerequisites, causes, and goals of human trust in AI
-      slides: ""
-      readings: ""
+      slides: "https://docs.google.com/presentation/d/1qEPsn8HNwcnX-dc4J2BfMfUwuqVlKVc64xW6jmKa7YY/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.bmdm5xfwfzm1"
       due:
     - date: 11/10
       format: Paper discussion
       theme: cont.
       topics: Paper discussion
-      slides: ""
-      readings: ""
+      slides: "https://docs.google.com/presentation/d/1CIwFM33svq4Pto-O5XFf8ah6nLUq45mbTEYCDyjIthQ/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.onou7a9vqq19"
       due: Ask discussion questions by Nov 9, 11:59pm
 
 - week: 13
