@@ -132,17 +132,17 @@
 
 - week: 9
   days:
-    - date: 3/1
-      format: Lecture + paper discussion
-      theme: Green NLP
-      topics: <a href="https://docs.google.com/presentation/d/1OmyQtn8ZoE7SOC6o8HbePRoNlSC2JK1BdDgFYrkFnks/edit#slide=id.gcfec9c4d01_1_65">Feedback on ethics reviews</a>, paper discussion
+    - date: 10/18
+      format: Lecture (Ana)
+      theme: <b>Psychology of human explanations</b>
+      topics: Foundations
       slides: ""
       readings: ""
       due:
-    - date: 3/3
-      format: Individual Meetings
-      theme: Project Meetings
-      topics: Class is canceled; schedule individual meetings with Julian and Yulia on projects
+    - date: 10/20
+      format: Paper discussion
+      theme: cont. 
+      topics: Paper discussion
       slides: ""
       readings: ""
       due:
