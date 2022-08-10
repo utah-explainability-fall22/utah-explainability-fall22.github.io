@@ -26,7 +26,7 @@
       topics: Paper discussion
       slides: "https://docs.google.com/presentation/d/1baM8inqgLiukBj_ZIBFAiPSRga6QE52zJK4u9UBC8TQ/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.9q1j09hgmbzz"
-
+      due: Ask discussion questions by Aug 31, 11:59pm 
 - week: 3
   days:
     - date: 9/6
@@ -42,7 +42,8 @@
       topics: Paper discussion
       slides: ""
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.wkkd4huoqdds"
-      due: <span style="color:purple">Project team information due</span>
+      due: <span style="color:purple">Project team information due</span>; Ask discussion questions by Sep 7, 11:59pm
+
 
 
 - week: 4
@@ -60,7 +61,7 @@
       topics: Paper discussion
       slides: "https://docs.google.com/presentation/d/1-kb4jai_3S9_1_nsa15G-S2WxH2jxK9G8hWJy0slycE/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.v2twnae26of1"
-      due: <span style="color:orange">Papers assigned for review</span>
+      due: <span style="color:orange">Papers assigned for review</span>; Ask discussion questions by Sep 14, 11:59pm
 
 - week: 5
   days:
@@ -77,7 +78,7 @@
       topics: Paper discussion
       slides: "https://docs.google.com/presentation/d/1PSq8xXiYCaKZlj1bKmVZAJZWbXjD1AWbCiWZNbuz87g/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.ydpr7ovwqn1"
-      due:
+      due: Ask discussion questions by Sep 21, 11:59pm
 
 - week: 6
   days:
@@ -94,7 +95,7 @@
       topics: Paper discussion
       slides: "https://docs.google.com/presentation/d/15I-TI7MSyxvBEiplD3w5DCkRaMsREf0GtJCKcGIH4aw/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.pe11brh8czxg"
-      due: 
+      due: Ask discussion questions by Sep 28, 11:59pm 
 
 - week: 7
   days:
@@ -111,7 +112,7 @@
       topics: <span style="color:orange">Feedback on reviews</span>; Paper discussion
       slides: "https://docs.google.com/presentation/d/1V6a5cDWk4C_CpD7YdTXnqo29TvnIc2j86hgZ407YJlM/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.nb2ggnrkorjl"
-      due:
+      due: Ask discussion questions by Oct 5, 11:59pm
 
 - week: 8
   days:
@@ -145,7 +146,7 @@
       topics: Paper discussion
       slides: ""
       readings: ""
-      due: <span style="color:purple">Project proposals due</span>
+      due: <span style="color:purple">Project proposals due</span>; Ask discussion questions by Oct 19, 11:59pm
 
 - week: 10
   days:
@@ -162,7 +163,7 @@
       topics: Paper discussion
       slides: ""
       readings: ""
-      due: 
+      due: Ask discussion questions by Oct 26, 11:59pm
 
 - week: 11
   days:
@@ -179,7 +180,7 @@
       topics: Paper discussion
       slides: ""
       readings: ""
-      due: <span style="color:purple">Project intermediate status report due</span>
+      due: <span style="color:purple">Project intermediate status report due</span>; Ask discussion questions by Nov 2, 11:59pm
 
 - week: 12
   days:
@@ -196,7 +197,7 @@
       topics: Paper discussion
       slides: ""
       readings: ""
-      due: 
+      due: Ask discussion questions by Nov 9, 11:59pm
 
 - week: 13
   days:
@@ -213,7 +214,7 @@
       topics: Advanced topics [TBA]
       slides: ""
       readings: ""
-      due: 
+      due: Ask discussion questions by Nov 16, 11:59pm
 
 
 - week: 14
