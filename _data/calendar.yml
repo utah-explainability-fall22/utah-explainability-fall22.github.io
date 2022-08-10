@@ -117,14 +117,14 @@
   days:
     - date: 10/11
       format: Break
-      theme: <span style="color:green">Fall Break</span>
+      theme: <b><span style="color:green">Fall Break</span></b>
       topics: 
       slides: 
       readings: 
       due:
     - date: 10/13
       format: Break
-      theme: <b>Fall Break</b>
+      theme: <b><span style="color:green">Fall Break</span></b>
       topics: 
       slides: 
       readings:
@@ -227,7 +227,7 @@
       due:
     - date: 11/24
       format: Break
-      theme:  <b>Thanksgiving Break</b>
+      theme:  <b><span style="color:green">Thanksgiving Break</span></b>
       topics: 
       slides: 
       readings: 
