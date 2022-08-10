@@ -251,7 +251,7 @@
       readings: 
       due: 
 
-- week: 15
+- week: 16
   days:
     - date: 12/6
       format: Lecture
@@ -260,3 +260,10 @@
       slides: ""
       readings: "" 
       due:
+    - date: 12/8
+      format: Break
+      theme:  <b>Classes Ended</b>
+      topics: No class
+      slides: 
+      readings: 
+      due: 
