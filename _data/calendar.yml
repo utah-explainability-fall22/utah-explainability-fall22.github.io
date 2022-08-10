@@ -145,7 +145,7 @@
       topics: Paper discussion
       slides: ""
       readings: ""
-      due: Project proposals due
+      due: <span style="color:purple">Project proposals due</span>
 
 - week: 10
   days:
@@ -179,7 +179,7 @@
       topics: Paper discussion
       slides: ""
       readings: ""
-      due: Project intermediate status report due
+      due: <span style="color:purple">Project intermediate status report due</span>
 
 - week: 12
   days:
@@ -220,7 +220,7 @@
   days:
     - date: 11/22
       format: Project Meetings
-      theme: <b>Project Meetings</b>
+      theme: <b><span style="color:purple">Project Meetings</span></b>
       topics: Class is canceled; schedule individual meetings with Ana and TA on projects
       slides: 
       readings: 
@@ -238,14 +238,14 @@
   days:
     - date: 11/29
       format: Project Presentations
-      theme: <b>Project Presentations</b>
+      theme: <b><span style="color:purple">Project Presentations</span></b>
       topics: 
       slides: 
       readings: 
-      due: Everyone submits their presentations on this date
+      due: <span style="color:purple">Everyone submits their presentations</span>
     - date: 11/24
       format: Project Presentations
-      theme:  <b>Project Presentations</b>
+      theme:  <b><span style="color:purple">Project Presentations</span></b>
       topics: 
       slides: 
       readings: 
