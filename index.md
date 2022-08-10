@@ -114,7 +114,7 @@ There will be three components to course grades.
     * Submit a project report (35%): A document no longer than 8 pages, structured like a research paper.
     * Presentation (30%): Instead of the final exam, we will have a presentation of the projects in the class. More details as we go along.
 * **[Paper readings and discussion](assignments/paper_discussions/) (30%).**
-    * 20%: Submit discussion questions before class and participate regularly during class. Note that not every question gives you points (e.g., a questiton cannot be just "What's X?" where X is explicitly mentioned in the paper.)
+    * 20%: Submit discussion questions before class and participate regularly during class. Note that not every question gives you points (e.g., a question cannot be just "What's X?" where X is explicitly described in the paper.)
     * 10%: Lead at least one discussion.
 * **[Paper review](assignments/review/)** (20%) Review ACL/EMNLP reviewing guidelines and write a review for a research paper in explainable AI.
 
