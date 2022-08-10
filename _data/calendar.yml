@@ -173,14 +173,14 @@
       topics: Principles, roadmap, risks, and research opportunities
       slides: ""
       readings: ""
-      #due:
+      due:
     - date: 11/3
       format: Paper discussion
       theme: cont.
       topics: Paper discussion
       slides: ""
       readings: ""
-      #due: <span style="color:purple">Project intermediate status report due</span>; Ask discussion questions by Nov 2, 11:59pm
+      due: <span style="color:purple">Project intermediate status report due</span>; Ask discussion questions by Nov 2, 11:59pm
 
 - week: 12
   days:
