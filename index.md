@@ -59,8 +59,8 @@ More details will be added as the semester continues.
 <table>
   <thead>
   <tr>
-    <th width="2%">Week</th>
-    <th width="2%">Date</th>
+    <th>Week</th>
+    <th>Date</th>
     <th width="30%">Theme</th>
     <th width="43%">Contents</th>
     <th width="23%">Work due</th>
