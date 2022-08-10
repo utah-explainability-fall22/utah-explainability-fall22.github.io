@@ -149,15 +149,17 @@
 
 - week: 10
   days:
-    - date: 3/8
-      format: Project Presentations
-      theme: Project Presentations
-      topics: <a href="https://docs.google.com/spreadsheets/d/1SWs-Mo_UEdWbTI5HtxveZxvpbHmcmGmuMM3vGatWnuI/edit#gid=0">Presentation schedule</a>
-      readings:
+    - date: 10/25
+      format: Lecture (Ana)
+      theme: <b>Application-grounded, human-subject evaluations of explanations</b>
+      topics: Experimental design, use cases, and challenges
+      slides: ""
+      readings: ""
       due:
-    - date: 3/10
-      format: Project Presentations
-      theme: Project Presentations
-      topics:  <a href="https://docs.google.com/spreadsheets/d/1SWs-Mo_UEdWbTI5HtxveZxvpbHmcmGmuMM3vGatWnuI/edit#gid=0">Presentation schedule</a>
-      readings:
-      due: Project proposal due Sunday, March 13th, 11:59pm
+    - date: 10/27
+      format: Paper discussion
+      theme: cont.
+      topics: Paper discussion
+      slides: ""
+      readings: ""
+      due: 
