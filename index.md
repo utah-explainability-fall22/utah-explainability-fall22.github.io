@@ -94,11 +94,7 @@ More details will be added as the semester continues.
 
 ## Resources
 
-* **Mattermost.** Course communication will be via Mattermost, an open-source communications platform similar to IRC
-  for which the Allen School has an [internally-hosted instance](https://mattermost.cs.washington.edu).
-  You should sign into using your CSE NetID and join the "team" for the class using an invite link
-  which has been sent to you via email. Mattermost will be used for sharing discussion points and
-  questions prior to in-class paper discussions.
+* **MS Teams.** Course communication will be via MS Teams.  You should sign into using your uNID and join the "team" for the class using an invite link which has been sent to you via email. MS Teams will be used for sharing discussion points and questions prior to in-class paper discussions.
 
 * **Google Drive.** Course materials, including lectures, reading lists, etc., are in a
   [Google Drive folder](https://drive.google.com/drive/u/1/folders/15eLW-7qMSF58FLYaHTm91MWd80fykGps)
