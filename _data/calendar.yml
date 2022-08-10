@@ -139,14 +139,14 @@
       topics: Foundations
       slides: ""
       readings: ""
-      #due:
+      due:
     - date: 10/20
       format: Paper discussion
       theme: cont. 
       topics: Paper discussion
       slides: ""
       readings: ""
-      #due: <span style="color:purple">Project proposals due</span>; Ask discussion questions by Oct 19, 11:59pm
+      due: <span style="color:purple">Project proposals due</span>; Ask discussion questions by Oct 19, 11:59pm
 
 - week: 10
   days:
