@@ -42,7 +42,7 @@
       topics: Paper discussion
       slides: ""
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.wkkd4huoqdds"
-      due: Project team information due
+      due: <span style="color:purple">Project team information due</span>
 
 
 - week: 4
