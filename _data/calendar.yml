@@ -163,3 +163,100 @@
       slides: ""
       readings: ""
       due: 
+
+- week: 11
+  days:
+    - date: 11/1
+      format: Lecture (Ana)
+      theme: <b>Explainability as a dialog</b>
+      topics: Principles, roadmap, risks, and research opportunities
+      slides: ""
+      readings: ""
+      due:
+    - date: 11/3
+      format: Paper discussion
+      theme: cont.
+      topics: Paper discussion
+      slides: ""
+      readings: ""
+      due: 
+
+- week: 12
+  days:
+    - date: 11/8
+      format: Lecture (Ana)
+      theme: <b>Trust in AI</b>
+      topics: Prerequisites, causes, and goals of human trust in AI
+      slides: ""
+      readings: ""
+      due:
+    - date: 11/10
+      format: Paper discussion
+      theme: cont.
+      topics: Paper discussion
+      slides: ""
+      readings: ""
+      due: 
+
+- week: 13
+  days:
+    - date: 11/15
+      format: Buffer
+      theme: <b>Buffer</b>
+      topics: Advanced topics [TBA]
+      slides: ""
+      readings: ""
+      due:
+    - date: 11/17
+      format: Buffer
+      theme:  <b>Buffer</b>
+      topics: Advanced topics [TBA]
+      slides: ""
+      readings: ""
+      due: 
+
+
+- week: 14
+  days:
+    - date: 11/22
+      format: Project Meetings
+      theme: <b>Project Meetings</b>
+      topics: Class is canceled; schedule individual meetings with Ana and TA on projects
+      slides: 
+      readings: 
+      due:
+    - date: 11/24
+      format: Break
+      theme:  <b>Thanksgiving Break</b>
+      topics: 
+      slides: 
+      readings: 
+      due: 
+
+
+- week: 15
+  days:
+    - date: 11/29
+      format: Project Presentations
+      theme: <b>Project Presentations</b>
+      topics: 
+      slides: 
+      readings: 
+      due:
+    - date: 11/24
+      format: Project Presentations
+      theme:  <b>Project Presentations</b>
+      topics: 
+      slides: 
+      readings: 
+      due: 
+
+- week: 15
+  days:
+    - date: 12/6
+      format: Lecture
+      theme: <b>Looking Back</b>
+      topics:  
+      slides: ""
+      readings: "" 
+      due:
