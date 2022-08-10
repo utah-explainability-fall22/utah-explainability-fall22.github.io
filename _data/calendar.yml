@@ -262,7 +262,7 @@
       due: Project report 
     - date: 12/8
       format: Break
-      theme:  <b>Classes Ended</b>
+      theme:  <b><span style="color:red">Classes Ended</span></b>
       topics: No class
       slides: 
       readings: 
