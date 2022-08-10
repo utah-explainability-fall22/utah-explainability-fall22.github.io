@@ -60,7 +60,7 @@ More details will be added as the semester continues.
   <thead>
   <tr>
     <th width="2px">Week</th>
-    <th>Date</th>
+    <th width="2px">Date</th>
     <th width="30%">Theme</th>
     <th width="43%">Contents</th>
     <th width="23%">Work due</th>
