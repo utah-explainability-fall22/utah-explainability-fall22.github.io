@@ -20,14 +20,14 @@
       topics: "Gradient-based post-hoc explanations"
       slides: "https://docs.google.com/presentation/d/1OVCi6m3Gsu_ipyOffY0G96VelhSpQ0UunPR0PDx-2X8/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.qx588ye5unv9"
-      due:     
+      #due:     
     - date: 9/1
       format: Paper discussion
       theme: cont.
       topics: Paper discussion
       slides: "https://docs.google.com/presentation/d/1baM8inqgLiukBj_ZIBFAiPSRga6QE52zJK4u9UBC8TQ/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.9q1j09hgmbzz"
-      due: Ask discussion questions by Aug 31, 11:59pm 
+      #due: Ask discussion questions by Aug 31, 11:59pm 
 
 - week: 3
   days:
@@ -37,14 +37,14 @@
       topics: "Attention-based post-hoc expanations"
       slides: "https://docs.google.com/presentation/d/1mAWAlgqWjeUG256IrOurBUeluzgyzbzeV7Dxpr3tsCA/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.ustsqod47o4a"
-      due:
+      #due:
     - date: 9/8
       format: Paper discussion
       theme: cont.
       topics: Paper discussion
       slides: ""
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.wkkd4huoqdds"
-      due: <span style="color:purple">Project team information due</span>; Ask discussion questions by Sep 7, 11:59pm
+      #due: <span style="color:purple">Project team information due</span>; Ask discussion questions by Sep 7, 11:59pm
 
 - week: 4
   days:
@@ -54,14 +54,14 @@
       topics: "Select-then-predict; faithfulness"
       slides: "https://docs.google.com/presentation/d/1u2jYv3mNe380Trxu4WN58Xlyl0iYmRG7jhGkr9q-ZbY/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.1ycmlx7vrf1z"
-      due:
+      #due:
     - date: 9/15
       format: Paper discussion
       theme: cont.
       topics: Paper discussion
       slides: "https://docs.google.com/presentation/d/1-kb4jai_3S9_1_nsa15G-S2WxH2jxK9G8hWJy0slycE/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.v2twnae26of1"
-      due: <span style="color:orange">Papers assigned for review</span>; Ask discussion questions by Sep 14, 11:59pm
+      #due: <span style="color:orange">Papers assigned for review</span>; Ask discussion questions by Sep 14, 11:59pm
 
 - week: 5
   days:
@@ -71,14 +71,14 @@
       topics: Contrastive editing; contrastive vector representation
       slides: "https://docs.google.com/presentation/d/1-ZtbrHDJbgkCfdISoSSZUkvzEku_d-mcKRv1-6_3K8I/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.8jeqy3pr3o9m"
-      due:
+      #due:
     - date: 9/22
       format: Paper discussion
       theme: cont.
       topics: Paper discussion
       slides: "https://docs.google.com/presentation/d/1PSq8xXiYCaKZlj1bKmVZAJZWbXjD1AWbCiWZNbuz87g/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.ydpr7ovwqn1"
-      due: Ask discussion questions by Sep 21, 11:59pm
+      #due: Ask discussion questions by Sep 21, 11:59pm
 
 - week: 6
   days:
@@ -88,14 +88,14 @@
       topics: Free-text explanations
       slides: "https://docs.google.com/presentation/d/1Zk4A0qaZv9CV5zyRE5iL5kApJbLsFFt5gXekoPwDJkU/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.mxnlvvaiy6ho"
-      due: 
+      #due: 
     - date: 9/29
       format: Paper discussion
       theme: cont.
       topics: Paper discussion
       slides: "https://docs.google.com/presentation/d/15I-TI7MSyxvBEiplD3w5DCkRaMsREf0GtJCKcGIH4aw/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.pe11brh8czxg"
-      due: Ask discussion questions by Sep 28, 11:59pm 
+      #due: Ask discussion questions by Sep 28, 11:59pm 
 
 - week: 7
   days:
@@ -105,14 +105,14 @@
       topics: Influence functions
       slides: "https://docs.google.com/presentation/d/12v-YfYMXamkljM_KoLJBdIYI7ZrRulq0rj_65VV60DM/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.tq6ir8x57dds"
-      due: <span style="color:orange">Review due</span>
+      #due: <span style="color:orange">Review due</span>
     - date: 10/6
       format: Feedback + Paper discussion
       theme: cont.
       topics: <span style="color:orange">Feedback on reviews</span>; Paper discussion
       slides: "https://docs.google.com/presentation/d/1V6a5cDWk4C_CpD7YdTXnqo29TvnIc2j86hgZ407YJlM/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.nb2ggnrkorjl"
-      due: Ask discussion questions by Oct 5, 11:59pm
+      #due: Ask discussion questions by Oct 5, 11:59pm
 
 - week: 8
   days:
@@ -122,14 +122,14 @@
       topics: 
       slides: 
       readings: 
-      due:
+      #due:
     - date: 10/13
       format: Break
       theme: <b><span style="color:green">Fall Break</span></b>
       topics: 
       slides: 
       readings:
-      due: 
+      #due: 
 
 - week: 9
   days:
@@ -139,14 +139,14 @@
       topics: Foundations
       slides: ""
       readings: ""
-      due:
+      #due:
     - date: 10/20
       format: Paper discussion
       theme: cont. 
       topics: Paper discussion
       slides: ""
       readings: ""
-      due: <span style="color:purple">Project proposals due</span>; Ask discussion questions by Oct 19, 11:59pm
+      #due: <span style="color:purple">Project proposals due</span>; Ask discussion questions by Oct 19, 11:59pm
 
 - week: 10
   days:
@@ -156,14 +156,14 @@
       topics: Experimental design, use cases, and challenges
       slides: ""
       readings: ""
-      due:
+      #due:
     - date: 10/27
       format: Paper discussion
       theme: cont.
       topics: Paper discussion
       slides: ""
       readings: ""
-      due: Ask discussion questions by Oct 26, 11:59pm
+      #due: Ask discussion questions by Oct 26, 11:59pm
 
 - week: 11
   days:
@@ -173,14 +173,14 @@
       topics: Principles, roadmap, risks, and research opportunities
       slides: ""
       readings: ""
-      due:
+      #due:
     - date: 11/3
       format: Paper discussion
       theme: cont.
       topics: Paper discussion
       slides: ""
       readings: ""
-      due: <span style="color:purple">Project intermediate status report due</span>; Ask discussion questions by Nov 2, 11:59pm
+      #due: <span style="color:purple">Project intermediate status report due</span>; Ask discussion questions by Nov 2, 11:59pm
 
 - week: 12
   days:
@@ -190,14 +190,14 @@
       topics: Prerequisites, causes, and goals of human trust in AI
       slides: ""
       readings: ""
-      due:
+      #due:
     - date: 11/10
       format: Paper discussion
       theme: cont.
       topics: Paper discussion
       slides: ""
       readings: ""
-      due: Ask discussion questions by Nov 9, 11:59pm
+      #due: Ask discussion questions by Nov 9, 11:59pm
 
 - week: 13
   days:
@@ -207,14 +207,14 @@
       topics: Advanced topics [TBA]
       slides: ""
       readings: ""
-      due:
+      #due:
     - date: 11/17
       format: Buffer
       theme:  <b>Buffer</b>
       topics: Advanced topics [TBA]
       slides: ""
       readings: ""
-      due: Ask discussion questions by Nov 16, 11:59pm
+      #due: Ask discussion questions by Nov 16, 11:59pm
 
 
 - week: 14
@@ -225,14 +225,14 @@
       topics: Class is canceled; schedule individual meetings with Ana and TA on projects
       slides: 
       readings: 
-      due:
+      #due:
     - date: 11/24
       format: Break
       theme:  <b><span style="color:green">Thanksgiving Break</span></b>
       topics: 
       slides: 
       readings: 
-      due: 
+      #due: 
 
 
 - week: 15
@@ -243,14 +243,14 @@
       topics: 
       slides: 
       readings: 
-      due: <span style="color:purple">Everyone submits their presentations</span>
+      #due: <span style="color:purple">Everyone submits their presentations</span>
     - date: 11/24
       format: Project Presentations
       theme:  <b><span style="color:purple">Project Presentations</span></b>
       topics: 
       slides: 
       readings: 
-      due: 
+      #due: 
 
 - week: 16
   days:
@@ -260,11 +260,11 @@
       topics:  
       slides: ""
       readings: "" 
-      due: <b><span style="color:purple">Project report</span> 
+      #due: <b><span style="color:purple">Project report</span> 
     - date: 12/8
       format: Break
       theme:  <b><span style="color:red">Classes End</span></b>
       topics: No class
       slides: 
       readings: 
-      due: 
+      #due: 

@@ -91,13 +91,6 @@ More details will be added as the semester continues.
   </tbody>
 </table>
 
-<!-- ## Additional Resources -->
-<!-- * [Extended readings list](https://docs.google.com/document/d/1GxKMCP-A4gypu3VsOqKeefIwqSACBHvcFl7pVcaVPLQ/edit?usp=sharing) -->
-<!-- * [Stanford Ethical and Social Issues in Natural Language Processing course](https://web.stanford.edu/class/cs384/) -->
-<!-- * [University of Washington Ethics in NLP course](http://faculty.washington.edu/ebender/2019_575/) -->
-<!-- * [University of Washington Computer Ethics course](https://courses.cs.washington.edu/courses/cse492e/20sp/) -->
-<!-- * [ACL Ethics resources](https://aclweb.org/aclwiki/Ethics_in_NLP) -->
-<!-- * [Embedded EthiCS at Harvard](https://embeddedethics.seas.harvard.edu/) -->
 
 ## Resources
 
