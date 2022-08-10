@@ -56,7 +56,7 @@ Methods and examples in this course will heavily focus on **Natural Language Pro
 Calendar is **tentative and subject to change**.
 More details will be added as the semester continues.
 
-<table width="100%">
+<table>
   <thead>
   <tr>
     <th>Week</th>
