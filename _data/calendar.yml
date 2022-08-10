@@ -260,7 +260,7 @@
       topics:  
       slides: ""
       readings: "" 
-      due: Project report 
+      due: <b><span style="color:purple">Project report</span> 
     - date: 12/8
       format: Break
       theme:  <b><span style="color:red">Classes End</span></b>
