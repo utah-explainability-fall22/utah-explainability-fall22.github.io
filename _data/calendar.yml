@@ -20,6 +20,7 @@
       topics: "Gradient-based post-hoc explanations"
       slides: "https://docs.google.com/presentation/d/1OVCi6m3Gsu_ipyOffY0G96VelhSpQ0UunPR0PDx-2X8/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.qx588ye5unv9"
+      due:     
     - date: 9/1
       format: Paper discussion
       theme: cont.
@@ -27,6 +28,7 @@
       slides: "https://docs.google.com/presentation/d/1baM8inqgLiukBj_ZIBFAiPSRga6QE52zJK4u9UBC8TQ/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.9q1j09hgmbzz"
       due: Ask discussion questions by Aug 31, 11:59pm 
+
 - week: 3
   days:
     - date: 9/6
@@ -43,8 +45,6 @@
       slides: ""
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.wkkd4huoqdds"
       due: <span style="color:purple">Project team information due</span>; Ask discussion questions by Sep 7, 11:59pm
-
-
 
 - week: 4
   days:
