@@ -117,14 +117,14 @@
   days:
     - date: 10/11
       format: Break
-      theme: Fall Break
+      theme: <b>Fall Break</b>
       topics: 
       slides: 
       readings: 
       due:
     - date: 2/24
       format: Break
-      theme: Fall Break
+      theme: <b>Fall Break</b>
       topics: 
       slides: 
       readings:
