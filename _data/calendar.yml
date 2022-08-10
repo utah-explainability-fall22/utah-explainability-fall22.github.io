@@ -108,7 +108,7 @@
     - date: 10/6
       format: Feedback + Paper discussion
       theme: cont.
-      topics: Feedback on reviews; Paper discussion
+      topics: <span style="color:orange">Feedback on reviews</span>; Paper discussion
       slides: "https://docs.google.com/presentation/d/1V6a5cDWk4C_CpD7YdTXnqo29TvnIc2j86hgZ407YJlM/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.nb2ggnrkorjl"
       due:
