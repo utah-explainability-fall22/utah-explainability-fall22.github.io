@@ -122,14 +122,14 @@
       topics: 
       slides: 
       readings: 
-      #due:
+      due:
     - date: 10/13
       format: Break
       theme: <b><span style="color:green">Fall Break</span></b>
       topics: 
       slides: 
       readings:
-      #due: 
+      due: 
 
 - week: 9
   days:
