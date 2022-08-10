@@ -54,14 +54,14 @@
       topics: "Select-then-predict; faithfulness"
       slides: "https://docs.google.com/presentation/d/1u2jYv3mNe380Trxu4WN58Xlyl0iYmRG7jhGkr9q-ZbY/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.1ycmlx7vrf1z"
-      #due:
+      due:
     - date: 9/15
       format: Paper discussion
       theme: cont.
       topics: Paper discussion
       slides: "https://docs.google.com/presentation/d/1-kb4jai_3S9_1_nsa15G-S2WxH2jxK9G8hWJy0slycE/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.v2twnae26of1"
-      #due: <span style="color:orange">Papers assigned for review</span>; Ask discussion questions by Sep 14, 11:59pm
+      due: <span style="color:orange">Papers assigned for review</span>; Ask discussion questions by Sep 14, 11:59pm
 
 - week: 5
   days:
