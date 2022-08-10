@@ -56,10 +56,10 @@ Methods and examples in this course will heavily focus on **Natural Language Pro
 Calendar is **tentative and subject to change**.
 More details will be added as the semester continues.
 
-<table>
+<table width="100%">
   <thead>
   <tr>
-    <th width="2%">Week</th>
+    <th width="5px">Week</th>
     <th>Date</th>
     <th width="30%">Theme</th>
     <th width="43%">Contents</th>
