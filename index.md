@@ -118,10 +118,26 @@ There will be three components to course grades. There are 100 points overall.
     * 10pt: Lead at least one discussion.
 * **[Paper review](assignments/review/) (20 points / 20%)** Review ACL/EMNLP reviewing guidelines and write a review for a research paper in explainable AI.
 
-Assignments, including discussion questions, have to be submitted by 11:59pm (Salt Lake City time), unless stated otherwise.
+Assignments, including discussion questions, have to be submitted **by 11:59pm (Salt Lake City time), unless stated otherwise.**
 
-Grading scale (how numeric scores map to letter grades, whether scores are rounded, etc.): TBA.
+**Do not submit assignments via email.** Questions for paper discussion have to be submitted to MS Teams. We will announce how to submit other assignments soon.
 
+### University of Utah grading scale
+
+| Letter      | Scoring |
+| ----------- | ----------- |
+| A      | 100%-94%       |
+| A-   | 100%-94%        |
+|B+ |	89.9%–87%|
+|B	|86.9%–84%|
+|B-	|83.9% - 80%|
+|C+	|79.9%–77%|
+|C	|76.9%–74%|
+|C-	|73.9% - 70%|
+|D+	|69.9%–67%|
+|D	|66.9%–64%|
+|D-	|63.9% - 60%|
+|E	|59.9%–0%|
 
 <!-- * **Late policy.** Students will have 4 late days that may be used for HW assignments at any point during the semseter. Late days may not be used for project benchmarks. After all late days have been used, no credit will be given for homework submitted late. -->
 
