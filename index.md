@@ -118,7 +118,8 @@ There will be three components to course grades.
     * 10%: Lead at least one discussion.
 * **[Paper review](assignments/review/) (20%)** Review ACL/EMNLP reviewing guidelines and write a review for a research paper in explainable AI.
 
-## Policies
+Assignments, including discussion questions, have to be submitted by 11:59pm (Salt Lake City time), unless stated otherwise.
+
 
 <!-- * **Late policy.** Students will have 4 late days that may be used for HW assignments at any point during the semseter. Late days may not be used for project benchmarks. After all late days have been used, no credit will be given for homework submitted late. -->
 
@@ -134,7 +135,7 @@ There will be three components to course grades.
 
 You can not submit the same project to this class and another class that you may be taking at the same time. If you are doing related projects in two different classes, there may be some overlap (e.g. in code libraries, etc.), but they should not be identical. A project that is found to be double-submitted will receive zero credit. If you have questions about this policy, please contact the instructor.
 
-### Diversity
+## Diversity
 
 It is our intent that students from all diverse backgrounds and perspectives be well-served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength and benefit. It is our intent to present materials and activities that are respectful of diversity: gender identity sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. Your suggestions are encouraged and appreciated. Please let us know ways to improve the effectiveness of the course for you personally, or for other students or student groups.
 
