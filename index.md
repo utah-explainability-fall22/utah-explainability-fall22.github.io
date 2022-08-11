@@ -199,7 +199,7 @@ For more safety information and to view available training resources, including 
 
 To report suspicious activity or to request a courtesy escort, contact:
 
-* **[Campus Police & Department of Public Safety](dps.utah.edu)**
+* [Campus Police & Department of Public Safety](dps.utah.edu)
 * 801-585-COPS (801-585-2677)
 * 1735 E. S. Campus Dr., Salt Lake City, UT 84112
 
@@ -209,10 +209,10 @@ Take care of yourself! As a student, you may experience a range of challenges th
 
 You can learn more about confidential mental health services available on campus:
 
-* **[Center for Student Wellness](https://www.wellness.utah.edu)**
+* [Center for Student Wellness](https://www.wellness.utah.edu)
   * 801-581-7776
   * 2100 Eccles Student Life Center, 1836 Student Life Way, Salt Lake City, UT 84112
-* **[Women's Resource Center](https://womenscenter.utah.edu/)**
+* [Women's Resource Center](https://womenscenter.utah.edu/)
   * 801-581-8030
   * 411 Union Building, 200 S. Central Campus Dr., Salt Lake City, UT 84112 
   
@@ -225,17 +225,17 @@ Title IX makes it clear that violence and harassment based on sex and gender (wh
 
 If you or someone you know has been harassed or assaulted, you are encouraged to report it to university officials: 
 
-* **[Title IX Coordinator in the Office of Equal Opportunity and Affirmative Action](https://oeo.utah.edu/)**
+* [Title IX Coordinator in the Office of Equal Opportunity and Affirmative Action](https://oeo.utah.edu/)
   * 801-581-8365
   * 135 Park Building, 201 Presidents' Cir., Salt Lake City, UT 84112
 
-* **[Office of the Dean of Students](https://deanofstudents.utah.edu/)**
+* [Office of the Dean of Students](https://deanofstudents.utah.edu/)
   * 801-581-7066
   * 270 Union Building, 200 S. Central Campus Dr., Salt Lake City, UT 84112 
  
 To file a police report, contact:
 
-* **[Campus Police & Department of Public Safety](dps.utah.edu)**
+* [Campus Police & Department of Public Safety](dps.utah.edu)
 * 801-585-COPS (801-585-2677)
 * 1735 E. S. Campus Dr., Salt Lake City, UT 84112
 
@@ -243,7 +243,7 @@ If you do not feel comfortable reporting to authorities, the U's Victim-Survivor
 
 To **privately** explore options and resources available to you with an advocate, contact:
 
-* **[Center for Student Wellness](wellness.utah.edu)**
+* [Center for Student Wellness](wellness.utah.edu)
   * 801-581-7776
   * 328 Student Services Building, 201 S. 1460 E., Salt Lake City, UT 84112
 
@@ -256,7 +256,7 @@ All written information in this course can be made available in an alternative f
 
 If you will need accommodations in this class, or for more information about what support they provide, contact:
 
-* **[Center for Disability & Access](disability.utah.edu)**
+* [Center for Disability & Access](disability.utah.edu)
   * 801-581-5020
   * 162 Union Building, 200 S. Central Campus Dr., Salt Lake City, UT 84112
   
