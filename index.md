@@ -116,7 +116,7 @@ There will be three components to course grades.
 * **[Paper readings and discussion](assignments/paper_discussions/) (30%).**
     * 20%: Submit discussion questions before class and participate regularly during class. Note that not every question gives you points (e.g., a question cannot be just "What's X?" where X is explicitly described in the paper.)
     * 10%: Lead at least one discussion.
-* **[Paper review](assignments/review/)** (20%) Review ACL/EMNLP reviewing guidelines and write a review for a research paper in explainable AI.
+* **[Paper review](assignments/review/) (20%)** Review ACL/EMNLP reviewing guidelines and write a review for a research paper in explainable AI.
 
 ## Policies
 
