@@ -101,35 +101,37 @@ More details will be added as the semester continues.
 
 ## Assignments/Grading
 
-There will be three components to course grades.
+There will be three components to course grades. There are 100 points overall.
 
 
-* **[Project](assignments/project/) (50%).**
-    * Form a project team and submit project team information (5%).
-    * Submit a project proposal: 1-2 paragraphs identifying the focus area of the project (10%).
-    * Submit intermediate status report (20%):
-      * The progress you have made towards your goal. (This cannot be just "We collected data".) (50%)
-      * Details of your plan for rest of the semester (30%)
-      * Pointers to literature (20%)
-    * Submit a project report (35%): A document no longer than 8 pages, structured like a research paper.
-    * Presentation (30%): Instead of the final exam, we will have a presentation of the projects in the class. More details as we go along.
-* **[Paper readings and discussion](assignments/paper_discussions/) (30%).**
-    * 20%: Submit discussion questions before class and participate regularly during class. Note that not every question gives you points (e.g., a question cannot be just "What's X?" where X is explicitly described in the paper.)
-    * 10%: Lead at least one discussion.
-* **[Paper review](assignments/review/) (20%)** Review ACL/EMNLP reviewing guidelines and write a review for a research paper in explainable AI.
+* **[Project](assignments/project/) (50 points / 50%).**
+    * Form a project team and submit project team information (2.5pt).
+    * Submit a project proposal: 1-2 paragraphs identifying the focus area of the project (5pt).
+    * Submit intermediate status report (10pt):
+      * The progress you have made towards your goal. (This cannot be just "We collected data".) (5pt)
+      * Details of your plan for rest of the semester (3pt)
+      * Pointers to literature (2pt)
+    * Submit a project report (17.5pt): A document no longer than 8 pages, structured like a research paper.
+    * Presentation (15pt): Instead of the final exam, we will have a presentation of the projects in the class. More details as we go along.
+* **[Paper readings and discussion](assignments/paper_discussions/) (30 points / 30%).**
+    * 20pt: Submit discussion questions before class and participate regularly during class. Note that not every question gives you points (e.g., a question cannot be just "What's X?" where X is explicitly described in the paper.)
+    * 10pt: Lead at least one discussion.
+* **[Paper review](assignments/review/) (20 points / 20%)** Review ACL/EMNLP reviewing guidelines and write a review for a research paper in explainable AI.
 
 Assignments, including discussion questions, have to be submitted by 11:59pm (Salt Lake City time), unless stated otherwise.
+
+Grading scale (how numeric scores map to letter grades, whether scores are rounded, etc.): TBA.
 
 
 <!-- * **Late policy.** Students will have 4 late days that may be used for HW assignments at any point during the semseter. Late days may not be used for project benchmarks. After all late days have been used, no credit will be given for homework submitted late. -->
 
 ### Late Policy
 
- All submissions should be made by the deadline. We will use the timestamp on Canvas as the submission time. Submissions will be accepted up to 24 hours after deadline, but will be assessed a 10% penalty. That is, if your submission is late and scores 90, then your actual grade will be 81=90-9. 
+ All submissions should be made by the deadline. We will use the timestamp on Canvas/Teams as the submission time. Submissions will be accepted up to 24 hours after deadline, but will be assessed a 10% penalty. That is, if your submission is late and scores 90, then your actual grade will be 81=90-9. 
  
  Submissions will not be accepted 24 hours after the deadline. 
  
- We will be strict about this policy: If the deadline is midnight and you submit the assignment at 12:01 AM, you will face the 10% penalty!
+ **We will be strict about this policy: If the deadline is midnight and you submit the assignment at 12:01 AM, you will face the 10% penalty!**
 
 ### No double dipping projects across multiple classes
 
