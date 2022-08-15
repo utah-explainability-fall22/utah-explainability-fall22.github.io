@@ -12,7 +12,7 @@ seo:
 {: .no_toc .mb-2 }
 {{ site.description }}
 <br>
-TuTh / 09:10AM-10:30AM, [GC 2781](https://map.utah.edu/index.html?code=GC), **in-person only**
+TuTh / 09:10AM-10:30AM, [GC 2781](https://map.utah.edu/index.html?code=GC); **in-person only**
 {: .fs-6 .fw-300 }
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
