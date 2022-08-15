@@ -29,7 +29,7 @@ TuTh / 09:10AM-10:30AM, [GC 2781](https://map.utah.edu/index.html?code=GC); **in
 {% endfor %}
 {% endif %}
 
-Office hours are at **11:00am Thursdays**.
+Office hours are at **11:00am Thursdays in Room 3126 in MEB**.
 
 ## Announcements
 
