@@ -33,6 +33,8 @@ Office hours are **TBD**.
 
 ## Announcements
 
+* **8/15:** You must enroll in the class or audit.            
+ 
 * **8/8: Course website is live.**
   Welcome.
   
