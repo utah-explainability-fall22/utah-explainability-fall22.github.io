@@ -53,7 +53,7 @@ In the second part of this course, we will revisit evaluation of these methods a
 
 Methods and examples in this course will heavily focus on **Natural Language Processing (NLP)** and **Computer Vision (specifically images)**. This course will _not_ cover global methods that analyze models' average behavior and internals. 
 
-You must enroll in the class or audit. 
+**You must enroll in the class or audit.**
 
 ## Calendar
 
