@@ -12,7 +12,7 @@ seo:
 {: .no_toc .mb-2 }
 {{ site.description }}
 <br>
-TuTh / 09:10AM-10:30AM, [GC 2781](https://map.utah.edu/index.html?code=GC)
+TuTh / 09:10AM-10:30AM, [GC 2781](https://map.utah.edu/index.html?code=GC), **in-person only**
 {: .fs-6 .fw-300 }
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -50,6 +50,8 @@ In the first part of this course, we'll go over methods that aim to address thes
 In the second part of this course, we will revisit evaluation of these methods and focus on how to develop and evaluate methods that best accomplish a specific utility of explanations (e.g., they speed-up information search of a fact checker collaborating with a ML model, reduce cognitive load, etc.). Such methods are developed by considering how people explain between each other (extensively studied by social sciences) and conducting application-grounded human-subject evaluations that are common in HCI.  
 
 Methods and examples in this course will heavily focus on **Natural Language Processing (NLP)** and **Computer Vision (specifically images)**. This course will _not_ cover global methods that analyze models' average behavior and internals. 
+
+You must enroll in the class or audit. 
 
 ## Calendar
 
