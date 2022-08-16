@@ -63,16 +63,34 @@
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.v2twnae26of1"
       due: <span style="color:orange">Papers assigned for review</span>; Ask discussion questions by Sep 14, 11:59pm
 
+
 - week: 5
   days:
     - date: 9/20
+      format: Lecture (Ana)
+      theme: <b>In plain English, why is this input assigned this label?</b>
+      topics: Free-text explanations
+      slides: "https://docs.google.com/presentation/d/1Zk4A0qaZv9CV5zyRE5iL5kApJbLsFFt5gXekoPwDJkU/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.mxnlvvaiy6ho"
+      due: 
+    - date: 9/22
+      format: Paper discussion
+      theme: cont.
+      topics: Paper discussion
+      slides: "https://docs.google.com/presentation/d/15I-TI7MSyxvBEiplD3w5DCkRaMsREf0GtJCKcGIH4aw/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.pe11brh8czxg"
+      due: Ask discussion questions by Sep 28, 11:59pm 
+
+- week: 6
+  days:
+    - date: 9/27
       format: Lecture (Ana) 
       theme: <b>Which part of the input should be changed to change the prediction to a given label?</b> 
       topics: Contrastive editing; contrastive vector representation
       slides: "https://docs.google.com/presentation/d/1-ZtbrHDJbgkCfdISoSSZUkvzEku_d-mcKRv1-6_3K8I/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.8jeqy3pr3o9m"
       due:
-    - date: 9/22
+    - date: 9/29
       format: Paper discussion
       theme: cont.
       topics: Paper discussion
@@ -80,22 +98,6 @@
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.ydpr7ovwqn1"
       due: Ask discussion questions by Sep 21, 11:59pm
 
-- week: 6
-  days:
-    - date: 9/27
-      format: Lecture (Ana)
-      theme: <b>In plain English, why is this input assigned this label?</b>
-      topics: Free-text explanations
-      slides: "https://docs.google.com/presentation/d/1Zk4A0qaZv9CV5zyRE5iL5kApJbLsFFt5gXekoPwDJkU/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.mxnlvvaiy6ho"
-      due: 
-    - date: 9/29
-      format: Paper discussion
-      theme: cont.
-      topics: Paper discussion
-      slides: "https://docs.google.com/presentation/d/15I-TI7MSyxvBEiplD3w5DCkRaMsREf0GtJCKcGIH4aw/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.pe11brh8czxg"
-      due: Ask discussion questions by Sep 28, 11:59pm 
 
 - week: 7
   days:
