@@ -4,7 +4,7 @@ title: Local Explanations for Deep Learning Models
 nav_exclude: true
 toc: true
 seo:
-  type: Course
+  type: Courses
   name: Local Explanations for Deep Learning Models
 ---
 
@@ -32,6 +32,12 @@ TuTh / 09:10AM-10:30AM, [GC 2781](https://map.utah.edu/index.html?code=GC); **in
 Office hours are at **11:00am Thursdays in Room 3126 in [MEB](https://goo.gl/maps/4QvSpfwDaoLD3aHu7)**.
 
 ## Announcements
+
+* **8/16:** Please complete the background quiz in Canvas at your earliest convenience. This will be very helpful to me to know in how much detail I need to go when covering certain topics. 
+
+* **8/16:** Please join Teams.
+
+* **8/16:** Everyone who has enrolled so far has access to the Google Drive using your @gcloud.utah.edu account. Content of slides will be added as we go.
 
 * **8/15:** You must enroll in the class or audit.            
  
