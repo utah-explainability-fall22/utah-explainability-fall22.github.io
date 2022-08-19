@@ -93,7 +93,7 @@
     - date: 9/29
       format: Paper discussion
       theme: cont.
-      topics: <span style="color:orange">Feedback on reviews</span>; Paper discussion
+      topics: Paper discussion
       slides: "https://docs.google.com/presentation/d/1V6a5cDWk4C_CpD7YdTXnqo29TvnIc2j86hgZ407YJlM/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.nb2ggnrkorjl"
       due: Ask discussion questions by Sep 28, 11:59pm
@@ -111,7 +111,7 @@
     - date: 10/6
       format: Feedback + Paper discussion
       theme: cont.
-      topics: Paper discussion
+      topics: <span style="color:orange">Feedback on reviews</span>; Paper discussion
       slides: "https://docs.google.com/presentation/d/1PSq8xXiYCaKZlj1bKmVZAJZWbXjD1AWbCiWZNbuz87g/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.ydpr7ovwqn1"
       due: Ask discussion questions by Oct 5, 11:59pm
