@@ -81,39 +81,39 @@
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.pe11brh8czxg"
       due: Ask discussion questions by Sep 21, 11:59pm 
 
-- week: 6
-  days:
-    - date: 9/27
-      format: Lecture (Ana) 
-      theme: <b>Which part of the input should be changed to change the prediction to a given label?</b> 
-      topics: Contrastive editing; contrastive vector representation
-      slides: "https://docs.google.com/presentation/d/1-ZtbrHDJbgkCfdISoSSZUkvzEku_d-mcKRv1-6_3K8I/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.8jeqy3pr3o9m"
-      due:
-    - date: 9/29
-      format: Paper discussion
-      theme: cont.
-      topics: Paper discussion
-      slides: "https://docs.google.com/presentation/d/1PSq8xXiYCaKZlj1bKmVZAJZWbXjD1AWbCiWZNbuz87g/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.ydpr7ovwqn1"
-      due: Ask discussion questions by Sep 28, 11:59pm
-
-
 - week: 7
   days:
-    - date: 10/4
+    - date: 9/27
       format: Lecture (Ana)
       theme: <b>Which training examples caused the prediction?</b>
       topics: Influence functions
       slides: "https://docs.google.com/presentation/d/12v-YfYMXamkljM_KoLJBdIYI7ZrRulq0rj_65VV60DM/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.tq6ir8x57dds"
-      due: <span style="color:orange">Review due</span>
-    - date: 10/6
-      format: Feedback + Paper discussion
+      due: 
+    - date: 9/29
+      format: Paper discussion
       theme: cont.
       topics: <span style="color:orange">Feedback on reviews</span>; Paper discussion
       slides: "https://docs.google.com/presentation/d/1V6a5cDWk4C_CpD7YdTXnqo29TvnIc2j86hgZ407YJlM/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.nb2ggnrkorjl"
+      due: Ask discussion questions by Sep 28, 11:59pm
+
+
+- week: 6
+  days:
+    - date: 10/4
+      format: Lecture (Ana) 
+      theme: <b>Which part of the input should be changed to change the prediction to a given label?</b> 
+      topics: Contrastive editing; contrastive vector representation
+      slides: "https://docs.google.com/presentation/d/1-ZtbrHDJbgkCfdISoSSZUkvzEku_d-mcKRv1-6_3K8I/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.8jeqy3pr3o9m"
+      due: <span style="color:orange">Review due</span>
+    - date: 10/6
+      format: Feedback + Paper discussion
+      theme: cont.
+      topics: Paper discussion
+      slides: "https://docs.google.com/presentation/d/1PSq8xXiYCaKZlj1bKmVZAJZWbXjD1AWbCiWZNbuz87g/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.ydpr7ovwqn1"
       due: Ask discussion questions by Oct 5, 11:59pm
 
 - week: 8
