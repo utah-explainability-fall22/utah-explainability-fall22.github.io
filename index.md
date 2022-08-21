@@ -115,14 +115,36 @@ There will be three components to course grades. There are 100 points overall.
 
 
 * **[Project](assignments/project/) (50 points / 50%).**
-    * Form a project team and submit project team information (2.5pt).
-    * Submit a project proposal: 1-2 paragraphs identifying the focus area of the project (5pt).
-    * Submit intermediate status report (10pt):
+    * **Form a project team and submit project team information (2.5pt).**
+    * **Submit a project proposal (10pt).** A document no longer than 2 pages, consisting of the following information (following "[Heilmeier Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism)"):
+      * What are you trying to do? Articulate your objectives using absolutely no jargon.
+      * How is it done today, and what are the limits of current practice? 
+        * The survey of prior work doesn’t need to be complete, but you should include high-level information about how your problem has been approached in the literature. This will help you think about baselines to compare against in your experiments.
+      * What is new in your approach and why do you think it will be successful?
+        * A success can also be showing that a published method does **not** work on a new language, domain, culture, etc.
+      * Who cares? If you are successful, what difference will it make? 
+      * What are the risks?
+      * What are the intermediate (Nov 3) and final "exams" (Dec 6) to check for success? 
+        * You should describe here how you will evaluate your approach. 
+        * For a data-driven project, you should describe the data that you have at hand. Ideally, you should have all the data that you need – or have a plan that will get you the data within the next couple of weeks.   
+        * If you are working on a standard data set, there is probably a standard evaluation that has been followed in the literature. You could describe this.
+        * For a survey paper, you can commit to saying that success is providing X number of new insights. 
+        * A successful formalization provides a clearly articulated framework for an old concept.
+    * **Submit an intermediate status report (10pt).** A two page document that says what you have done on the project so far. By this time, you should have interacted with the instructor about your project. The report should describe:
       * The progress you have made towards your goal. (This cannot be just "We collected data".) (5pt)
       * Details of your plan for rest of the semester (3pt)
       * Pointers to literature (2pt)
-    * Submit a project report (17.5pt): A document no longer than 8 pages, structured like a research paper.
-    * Presentation (15pt): Instead of the final exam, we will have a presentation of the projects in the class. More details as we go along.
+    * **Presentation (12.5pt):** Instead of the final exam, we will have a presentation of the projects in the class. More details as we go along.
+    * **Submit a project report (15pt):** A document no longer than 8 pages, structured like a research paper.
+      * What problem did you work on? Why is it interesting?
+      * What are the important ideas you explored?
+      * What ideas from the class did you use?
+      * What did you learn?
+      * Results (or for theoretical project, proofs)
+      * If you had much more time, how would you continue the project?
+      * If your project had two members, your report should explain what each of you did.
+      * Each of these components will be equally weighted in the report grade.
+
 * **[Paper readings and discussion](assignments/paper_discussions/) (30 points / 30%).**
     * 20pt: Submit discussion questions before class and participate regularly during class. Note that not every question gives you points (e.g., a question cannot be just "What's X?" where X is explicitly described in the paper.)
     * 10pt: Lead at least one discussion.
