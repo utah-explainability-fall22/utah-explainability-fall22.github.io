@@ -3,11 +3,9 @@ title: Project
 include_nav_home: true
 ---
 
-## Project ideas 
-
 The class project is an avenue for trying out ideas that you have seen in the class in a practical setting. Project groups should consist of 1-2 students. If your project had two members, your final report should explain what each of you did.  Ideally, the project idea could come from you and you should explore some new directions. It could be about something that you are interested in or working on already. Of course, we are willing to brainstorm about the project with you and offer suggestions. 
 
-**[This document]((https://docs.google.com/document/d/1zPzgGtmRCDrjZISDDgyC4ORUeu_NdChupAs9GjgPD7Y/edit#bookmark=id.6lxuk27w80j2))** is meant as a starting point for generating project ideas - you are welcome to explore topics beyond the ones outlined here. We encourage you to choose a topic of interest, read a few related papers, and think of possible extensions. Keep in mind some topics have more available data than others. [This website](https://exnlpdatasets.github.io/) collects datasets for Explainable NLP. We are willing to brainstorm about the project with you and offer suggestions.
+**[This document]((https://docs.google.com/document/d/1zPzgGtmRCDrjZISDDgyC4ORUeu_NdChupAs9GjgPD7Y/edit#bookmark=id.6lxuk27w80j2))** is meant as a starting point for generating project ideas - you are welcome to explore topics beyond the ones outlined here. We encourage you to choose a topic of interest, read a few related papers, and think of possible extensions. Keep in mind some topics have more available data than others. [This website](https://exnlpdatasets.github.io/) collects datasets for Explainable NLP. 
 
 ## Questions to consider in choosing a topic
 
@@ -24,7 +22,7 @@ Projects do not need to be a standard model-driven task. Students are welcome to
     * Applying an existing model to a different domain or data set or modality                
     * e.g. Low resource NLP -- extend any of the papers below to a multilingual / low resource setting
 
-Project proposal should be well-structured (✨see below) with clear research questions relevant to the course:
+Project proposal should be well-structured (✨ see below) with clear research questions relevant to the course. Questions to consider in choosing a topic: 
 * What topics do I care about and/or have domain knowledge in?
 * What new skills do I want to develop? Modeling/analysis/data collection/research survey project?
 * What are available data sets?
@@ -32,7 +30,7 @@ Project proposal should be well-structured (✨see below) with clear research qu
 * What is the evaluation plan?
 * What is the analysis/qualitative evaluation plan? 
 
-✨ That said, we encourage you to work on risky projects! Think about these levels: 
+✨ That said, we encourage you to work on risky projects! ✨ Think about these levels: 
 
 1. **Structured:**
     * Task and data sets are well defined, can make rapid progress with existing NLP models
