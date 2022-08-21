@@ -1,5 +1,5 @@
 ---
-title: Project Proposal
+title: Project
 include_nav_home: true
 ---
 
