@@ -5,9 +5,23 @@ include_nav_home: true
 
 ## Project ideas 
 
-The class project is an avenue for trying out ideas that you have seen in the class in a practical setting. Projects should ideally be done in groups of two (that's the max). Ideally, the project idea could come from you and you should explore some new directions. It could be about something that you are interested in or working on already. Of course, we are willing to brainstorm about the project with you and offer suggestions. 
+The class project is an avenue for trying out ideas that you have seen in the class in a practical setting. Project groups should consist of 1-2 students. If your project had two members, your final report should explain what each of you did.  Ideally, the project idea could come from you and you should explore some new directions. It could be about something that you are interested in or working on already. Of course, we are willing to brainstorm about the project with you and offer suggestions. 
 
-[Here are some ideas.](https://docs.google.com/document/d/1zPzgGtmRCDrjZISDDgyC4ORUeu_NdChupAs9GjgPD7Y/edit#bookmark=id.6lxuk27w80j2)
+[This document]((https://docs.google.com/document/d/1zPzgGtmRCDrjZISDDgyC4ORUeu_NdChupAs9GjgPD7Y/edit#bookmark=id.6lxuk27w80j2)) is meant as a starting point for generating project ideas - you are welcome to explore topics beyond the ones outlined here. We encourage you to choose a topic of interest, read a few related papers, and think of possible extensions. Keep in mind some topics have more available data than others. We are willing to brainstorm about the project with you and offer suggestions.
+
+Projects do not need to be a standard model-driven task. Students are welcome to explore a range of types of projects including:
+* New explainability method for an existing task               
+* New evaluation of an explanability method                  
+* Collecting human-authored explanations for supervision               
+* Survey 
+    * To evaluate such projects I’ll follow [TACL](https://transacl.org/ojs/index.php/tacl/about/submissions): "To meet the bar of originality and significance, surveys should be such that even experts in the domain covered will say “I learned something interesting from this paper."  They should thus not simply be a descriptive enumeration of the contents of papers, but draw broad themes and (importantly) provide new insights on the topic.  These insights should be major contributions of the submission."
+    * See [Wiegreffe and Marasović (2021)](https://arxiv.org/abs/2102.12060) for an example            
+* Formalization
+    * See [Jacovi et al. (2021)](https://arxiv.org/abs/2010.07487) and [Jacovi and Goldberg (2020)](https://aclanthology.org/2020.acl-main.386/) for examples                         
+* Replication                
+    * Applying an existing model to a different domain or data set or modality                
+    * e.g. Low resource NLP -- extend any of the papers below to a multilingual / low resource setting
+
 
 ## Questions to consider in choosing a topic
 
