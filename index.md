@@ -107,7 +107,7 @@ More details will be added as the semester continues.
 * **MS Teams.** Course communication will be via MS Teams.  You should sign into using your uNID and join the "team" for the class using an invite link which has been sent to you via email. MS Teams will be used for sharing discussion points and questions prior to in-class paper discussions.
 
 * **Google Drive.** Course materials, including lectures, reading lists, etc., are in a
-  [Google Drive folder](https://drive.google.com/drive/folders/13i2Sor2M7it72aGlMd87Iejw6fzqsBxI?usp=sharing) which has been shared with all students. You will also use Google Drive for submitting your reviews and project proposals.
+  [Google Drive folder](https://drive.google.com/drive/folders/13i2Sor2M7it72aGlMd87Iejw6fzqsBxI?usp=sharing) which has been shared with all students. You can access it (only) with your @gcloud.utah.edu account. 
 
 ## Assignments/Grading
 
