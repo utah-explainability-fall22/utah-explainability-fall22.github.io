@@ -258,8 +258,8 @@
   days:
     - date: 12/6
       format: Lecture
-      theme: <b>Looking Back</b>
-      topics: Reflections on the class 
+      theme: <b>Buffer</b>
+      topics: Advanced topics [TBA]                
       slides: ""
       readings: "" 
       due: <span style="color:purple">Project report</span> 
