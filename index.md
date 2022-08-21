@@ -159,7 +159,7 @@ Assignments, including discussion questions, have to be submitted **by 11:59pm (
 | Letter      | Scoring |
 | ----------- | ----------- |
 | A      | 100%-94%       |
-| A-   | 100%-94%        |
+| A-   | 93.9%-90%        |
 |B+ |	89.9%–87%|
 |B	|86.9%–84%|
 |B-	|83.9% - 80%|
