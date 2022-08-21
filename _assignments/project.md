@@ -9,6 +9,8 @@ The class project is an avenue for trying out ideas that you have seen in the cl
 
 [This document]((https://docs.google.com/document/d/1zPzgGtmRCDrjZISDDgyC4ORUeu_NdChupAs9GjgPD7Y/edit#bookmark=id.6lxuk27w80j2)) is meant as a starting point for generating project ideas - you are welcome to explore topics beyond the ones outlined here. We encourage you to choose a topic of interest, read a few related papers, and think of possible extensions. Keep in mind some topics have more available data than others. We are willing to brainstorm about the project with you and offer suggestions.
 
+## Questions to consider in choosing a topic
+
 Projects do not need to be a standard model-driven task. Students are welcome to explore a range of types of projects including:
 * New explainability method for an existing task               
 * New evaluation of an explanability method                  
@@ -22,22 +24,7 @@ Projects do not need to be a standard model-driven task. Students are welcome to
     * Applying an existing model to a different domain or data set or modality                
     * e.g. Low resource NLP -- extend any of the papers below to a multilingual / low resource setting
 
-
-## Questions to consider in choosing a topic
-
-* Structured:
-    * Task and data sets are well defined, can make rapid progress with existing NLP models
-    * Work will likely not result in publication (maybe suitable for workshop venues), though it depends how good your model is!
-* Semi-structured
-    * Some prior work on task. Data exists but may not be well-formatted or easy to approach
-    * Research questions are clear but exact formulation of task is not
-    * Project will require creativity in structuring tasks and may result in publishable work
-* Unstructured
-    * Topic may be interesting, but research questions are unclear and hard to define
-    * Not clear what the correct data set is, may need to create one
-    * Could result in really great work, but will require substantial student effort (High risk high reward!)
-
-Project proposal should be well-structured with clear research questions relevant to the course:
+Project proposal should be well-structured (✨see below) with clear research questions relevant to the course:
 * What topics do I care about and/or have domain knowledge in?
 * What new skills do I want to develop? Modeling/analysis/data collection/research survey project?
 * What are available data sets?
@@ -45,7 +32,25 @@ Project proposal should be well-structured with clear research questions relevan
 * What is the evaluation plan?
 * What is the analysis/qualitative evaluation plan? 
 
+✨ That said, we encourage you to work on risky projects! Think about these levels: 
+
+1. **Structured:**
+    * Task and data sets are well defined, can make rapid progress with existing NLP models
+    * Work will likely not result in publication (maybe suitable for workshop venues), though it depends how good your model is!
+2. **Semi-structured:**
+    * Some prior work on task. Data exists but may not be well-formatted or easy to approach
+    * Research questions are clear but exact formulation of task is not
+    * Project will require creativity in structuring tasks and may result in publishable work
+3. **Unstructured:**
+    * Topic may be interesting, but research questions are unclear and hard to define
+    * Not clear what the correct data set is, may need to create one
+    * Could result in really great work, but will require substantial student effort (High risk high reward!)
+
+All of them are fine, and you should pick whatever project type suits what you aim to achieve from this course. 
+
 ## Grading 
+
+Your project is worth 50% of the class grade. This is broken down across the following milestones:
 
 * **Form a project team and submit project team information (2.5pt).**
 * **Submit a project proposal (10pt).** A document no longer than 2 pages, consisting of the following information (following "[Heilmeier Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism)"):
@@ -76,6 +81,10 @@ Project proposal should be well-structured with clear research questions relevan
     * If you had much more time, how would you continue the project?
     * If your project had two members, your report should explain what each of you did.
     * Each of these components will be equally weighted in the report grade.
+
+## Project Ideas 
+
+Some ideas are listed [here](https://docs.google.com/document/d/1zPzgGtmRCDrjZISDDgyC4ORUeu_NdChupAs9GjgPD7Y/edit#bookmark=id.6lxuk27w80j2).
 
 <!-- * Pre-proposal: A 1-2 paragraph document describing the focus area of the project and defining team members (Due 1/23) -->
 <!-- * Proposal: (7.5%) A 2-3 page document (ACL format) containing a literature review, concrete problem definition, identification of baseline models, and ideas for final models. Sections should include Introduction, Related Work, Data, Baseline, Proposed Approach. Baselines should be clearly defined but do not need to be implemented yet (Due 2/25) -->
