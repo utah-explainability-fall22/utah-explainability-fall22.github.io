@@ -5,7 +5,7 @@ include_nav_home: true
 
 ## Project ideas 
 
-The class project is an avenue for trying out ideas that you have seen in the class in a practical setting. Projects should ideally be done in groups of two (that's the max). Ideally, the project idea could come from you and you should explore some new directions. It could be about something that you are interested in or working on already.Of course, we are willing to brainstorm about the project with you and offer suggestions. 
+The class project is an avenue for trying out ideas that you have seen in the class in a practical setting. Projects should ideally be done in groups of two (that's the max). Ideally, the project idea could come from you and you should explore some new directions. It could be about something that you are interested in or working on already. Of course, we are willing to brainstorm about the project with you and offer suggestions. 
 
 [Here are some ideas.](https://docs.google.com/document/d/1zPzgGtmRCDrjZISDDgyC4ORUeu_NdChupAs9GjgPD7Y/edit#bookmark=id.6lxuk27w80j2)
 
