@@ -82,9 +82,6 @@ Your project is worth 50% of the class grade. This is broken down across the fol
     * If your project had two members, your report should explain what each of you did.
     * Each of these components will be equally weighted in the report grade.
 
-## Project Ideas 
-
-Some ideas are listed [here](https://docs.google.com/document/d/1zPzgGtmRCDrjZISDDgyC4ORUeu_NdChupAs9GjgPD7Y/edit#bookmark=id.6lxuk27w80j2).
 
 <!-- * Pre-proposal: A 1-2 paragraph document describing the focus area of the project and defining team members (Due 1/23) -->
 <!-- * Proposal: (7.5%) A 2-3 page document (ACL format) containing a literature review, concrete problem definition, identification of baseline models, and ideas for final models. Sections should include Introduction, Related Work, Data, Baseline, Proposed Approach. Baselines should be clearly defined but do not need to be implemented yet (Due 2/25) -->
