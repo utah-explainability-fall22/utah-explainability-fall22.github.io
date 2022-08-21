@@ -5,7 +5,7 @@ include_nav_home: true
 
 The class project is an avenue for trying out ideas that you have seen in the class in a practical setting. Project groups should consist of 1-2 students. If your project had two members, your final report should explain what each of you did.  Ideally, the project idea could come from you and you should explore some new directions. It could be about something that you are interested in or working on already. Of course, we are willing to brainstorm about the project with you and offer suggestions. 
 
-**[This document]((https://docs.google.com/document/d/1zPzgGtmRCDrjZISDDgyC4ORUeu_NdChupAs9GjgPD7Y/edit#bookmark=id.6lxuk27w80j2))** is meant as a starting point for generating project ideas - you are welcome to explore topics beyond the ones outlined here. We encourage you to choose a topic of interest, read a few related papers, and think of possible extensions. Keep in mind some topics have more available data than others. [This website](https://exnlpdatasets.github.io/) collects datasets for Explainable NLP. 
+**[This document]((https://docs.google.com/document/d/1zPzgGtmRCDrjZISDDgyC4ORUeu_NdChupAs9GjgPD7Y/edit#bookmark=id.6lxuk27w80j2))** is meant as a starting point for generating **project ideas** - you are welcome to explore topics beyond the ones outlined here. We encourage you to choose a topic of interest, read a few related papers, and think of possible extensions. Keep in mind some topics have more available data than others. [This website](https://exnlpdatasets.github.io/) collects datasets for Explainable NLP. 
 
 ## Questions to consider in choosing a topic
 
