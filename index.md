@@ -187,6 +187,30 @@ Assignments, including discussion questions, have to be submitted **by 11:59pm (
 
 You can not submit the same project to this class and another class that you may be taking at the same time. If you are doing related projects in two different classes, there may be some overlap (e.g. in code libraries, etc.), but they should not be identical. A project that is found to be double-submitted will receive zero credit. If you have questions about this policy, please contact the instructor.
 
+### Cheating 
+
+Collaboration is encouraged; cheating will not be tolerated.
+    
+*<center><u>Honor code for this class</u></center>*
+ 
+> You are encouraged to discuss class materials with your peers. If you want you
+> can form study groups because discussions help understanding. You are also
+> welcome to discuss assignments.
+> 
+> However, you must write your own solutions and code and submit your
+> own solution. Do not copy or ask for assignments from other students or the
+> internet. Do not let someone else copy your submissions either.
+
+If you are caught cheating once, you *will* receive a failing grade for that
+submission. If you are caught cheating again, you will fail the class.
+ 
+For projects, you are free to discuss the project with your classmates, but your
+work should be your own.
+ 
+For both assignments and the project, you should cite all sources that you refer
+to. This includes personal communication, books, papers, websites, etc. Doing so
+reflects academic integrity.
+
 ## Diversity
 
 It is our intent that students from all diverse backgrounds and perspectives be well-served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength and benefit. It is our intent to present materials and activities that are respectful of diversity: gender identity sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. Your suggestions are encouraged and appreciated. Please let us know ways to improve the effectiveness of the course for you personally, or for other students or student groups.
