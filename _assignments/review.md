@@ -3,9 +3,7 @@ title: Paper Review
 include_nav_home: true
 ---
 
-# Paper Review Assignment
-
-## Reviews
+# Paper Review 
 
 For a paper you are assigned to reviw, you should first start off with a one paragraph description of
 the core contribution of the paper *in your own words*, followed by a list of
