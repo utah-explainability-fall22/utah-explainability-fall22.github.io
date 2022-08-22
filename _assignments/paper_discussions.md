@@ -5,23 +5,15 @@ include_nav_home: true
 
 # Paper Discussions
 
-10-11 of the class sessions will be devoted to paper discussion. For each session, we will cover
-**N papers** by splitting the discussion between N randomly assigned groups which will persist
-for the duration of the quarter. N depends on the class enrollment and will be updated when the class starts,
+At least 10 of the class sessions will be devoted to paper discussion. For each session, we will cover
+**3 papers** by splitting the discussion between 3 randomly assigned groups **which will persist
+for the duration of the quarter**. Your uNID is assigned to a group for paper discussions; see Canvas > Modules > Groups. Reading assignments for each group are in the [reading list](https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit?usp=sharing). If you don't have access to the reading list, send a direct message in [Teams](https://teams.microsoft.com/l/team/19%3ait66PgoRabiGRMhXIEr67O1_XTkjExhyqn3rxIf2vI81%40thread.tacv2/conversations?groupId=d69b57e3-80a0-4b92-88fb-a54bd9145bab&tenantId=5217e0e7-539d-4563-b1bf-7c6dcf074f91) to the instructor. 
 
 ## MS Teams participation
 
-Channels for each group (#paper-discussion-1, #paper-discussion-2, etc.)
-will be created. Please join all of the channels, though participation will only be required in
-your own.
-By the night before each discussion, post 2–3 discussion points 
-or questions about the paper in your respective group. Do not repeat earlier questions or points, so
-a diversity of issues gets raised. Write each question or point as a separate message, so if people
-have responses, follow-up questions, links for related reading, etc., they can reply directly to your
-point in a thread. Such follow-up questions or are also a valid way to contribute some of your 2–3
-discussion points.
+Channels for each group (#paper-discussion-group1, #paper-discussion-group2, etc.) are created. Please join all of the channels, though participation will only be required in your own. By the night before each discussion, post 2–3 discussion points or questions about the paper in your respective group. Do not repeat earlier questions or points, so a diversity of issues gets raised. Write each question or point as a separate message, so if people have responses, follow-up questions, links for related reading, etc., they can reply directly to your point in a thread. Such follow-up questions or are also a valid way to contribute some of your 2–3 discussion points.
 
-Details of how questions contribute to your grade will be shared soon. 
+**Regarding grading.** You'll get 2 points for each discussion if you posted 2–3 substantial discussion points or questions on time (before 11:59pm day before). If you only asked about something that is obviously and explicitly mentioned in the paper ("What is X?" where X is clearly introduced), you will not get points. 
 
 <!-- * We are not following the -->
 <!--   [“role-playing paper-reading seminar” format](https://colinraffel.com/blog/role-playing-seminar.html), -->
@@ -31,8 +23,8 @@ Details of how questions contribute to your grade will be shared soon.
 
 ## Class participation
 For each class discussion, your group will decide on a discussion leader.
-Everyone is required to lead at least one discussion over the course of the quarter. Paper
+**Everyone is required to lead at least one discussion over the course of the quarter.** Paper
 discussion classes will proceed in two parts. For the first half, each discussion group will break
-out and discuss their own paper. The lead should use the discussion points raised in MS Teams to
+out and discuss their own paper for 30 minutes. The lead should use the discussion points raised in MS Teams to
 guide the discussion. Then for the second half, we will reconvene and the lead for each group will
-summarize their paper and the takeaways from their discussion.
+**concisely** summarize their paper and the takeaways from their discussion.
