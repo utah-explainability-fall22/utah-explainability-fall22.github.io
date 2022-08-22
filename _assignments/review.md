@@ -12,6 +12,14 @@ For a paper you are assigned to review, you should follow the structure introduc
 
 For the purpose of this class, feel free to make a note of additional experiments or a different framing in a special section titled "Additional comments for the class". 
 
+## Grading 
+
+* Summary (5 points)
+* Strengths (5 points)
+* Weaknesses (5 points)
+* Comments (2 points)
+* Limitations and Societal Impact (2 points)
+* Ethical Concerns (1 point)
 
 ## Some resources to help you write better reviews
 

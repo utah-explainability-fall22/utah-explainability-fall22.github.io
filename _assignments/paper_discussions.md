@@ -15,7 +15,9 @@ for the duration of the quarter**. Your uNID is assigned to a group for paper di
 
 Please note that discussion threads and emails are all considered to be equivalent to the classroom, and your behavior in all these venues should conform to the university’s student code.
 
-**Regarding grading.** You'll get 2 points for each discussion if you posted 2–3 substantial discussion points or questions on time (before 11:59pm day before). If you only asked about something that is obviously and explicitly mentioned in the paper ("What is X?" where X is clearly introduced), you will not get points. 
+### Grading 
+
+You'll get 2 points for each discussion if you posted 2–3 substantial discussion points or questions on time (before 11:59pm day before). If you only asked about something that is obviously and explicitly mentioned in the paper ("What is X?" where X is clearly introduced), you will not get points. 
 
 <!-- * We are not following the -->
 <!--   [“role-playing paper-reading seminar” format](https://colinraffel.com/blog/role-playing-seminar.html), -->
