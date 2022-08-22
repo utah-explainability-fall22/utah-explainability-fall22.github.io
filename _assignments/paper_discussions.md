@@ -30,3 +30,13 @@ discussion classes will proceed in two parts. For the first half, each discussio
 out and discuss their own paper for 30 minutes. During this period, each group will add main points to a slide shared with other groups. The lead should use the discussion points raised in MS Teams to
 guide the discussion. Then for the second half, we will reconvene and the lead for each group will
 **concisely** summarize their paper and the takeaways from their discussion.
+
+### Reading research papers
+
+One of the goals of this class is to make you comfortable with reading CS
+research papers. Reading a research paper is a learned skill. Here are some
+pointers that may help you on that front.
+
+* Philip WL Fong. 2009. [Reading a computer science research paper](https://svivek.com/teaching/structured-prediction/spring2021/readings/fong2009reading_a.pdf). ACM SIGCSE Bulletin, 41(2):138–140.
+* Srinivasan Keshav. 2007. [How to read a paper](https://svivek.com/teaching/structured-prediction/spring2021/readings/keshav2007how_to_read_a.pdf). ACM SIGCOMM Computer Communication Review, 37(3):83–84.
+* Michael Mitzenmacher. 2015. [How to read a research paper](https://svivek.com/teaching/structured-prediction/spring2021/readings/mitzenmacher-how.pdf).
