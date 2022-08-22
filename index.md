@@ -33,6 +33,8 @@ Office hours are at **11:00am Thursdays in Room 3126 in [MEB](https://goo.gl/map
 
 ## Announcements
 
+* **8/22:** You uNID is assigned to a group for [paper discussions](https://utah-explainability-fall22.github.io//assignments/paper_discussions/). Please go to Canvas and open file "Groups" in "Modules" to see which group you belong to. 
+
 * **8/16:** Please complete the background quiz in Canvas at your earliest convenience. This will be very helpful to me to know in how much detail I need to go when covering certain topics. 
 
 * **8/16:** Please join Teams.
