@@ -31,7 +31,7 @@ out and discuss their own paper for 30 minutes. During this period, each group w
 guide the discussion. Then for the second half, we will reconvene and the lead for each group will
 **concisely** summarize their paper and the takeaways from their discussion.
 
-### Reading research papers
+## Reading research papers
 
 One of the goals of this class is to make you comfortable with reading CS
 research papers. Reading a research paper is a learned skill. Here are some
