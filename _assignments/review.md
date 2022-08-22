@@ -26,6 +26,6 @@ For the purpose of this class, feel free to make a note of additional experiment
 
 ## Turnin
 
-You can turn in your review in .txt, .md, or .pdf format. Please upload it in [TBA](https://drive.google.com/drive/folders/1pxyO0ca3QcQOC5KVH-Q7W2w-i6SEK6w6?usp=sharing), in the subfolder corresponding to your chosen paper, by 11:59pm on Oct 4.
+You can turn in your review in .txt, .md, or .pdf format. Please upload it in the [subfolder corresponding to your paper](https://drive.google.com/drive/folders/1pxyO0ca3QcQOC5KVH-Q7W2w-i6SEK6w6?usp=sharing), by 11:59pm on Oct 4.
 
 After turning in your review, feel free to look at others' reviews for comparison and to check your work. 
