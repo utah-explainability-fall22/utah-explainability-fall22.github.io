@@ -13,6 +13,8 @@ for the duration of the quarter**. Your uNID is assigned to a group for paper di
 
 Channels for each group (#paper-discussion-group1, #paper-discussion-group2, etc.) are created. Please join all of the channels, though participation will only be required in your own. By the night before each discussion, post 2–3 discussion points or questions about the paper in your respective group. Do not repeat earlier questions or points, so a diversity of issues gets raised. Write each question or point as a separate message, so if people have responses, follow-up questions, links for related reading, etc., they can reply directly to your point in a thread. Such follow-up questions or are also a valid way to contribute some of your 2–3 discussion points.
 
+Please note that discussion threads and emails are all considered to be equivalent to the classroom, and your behavior in all these venues should conform to the university’s student code.
+
 **Regarding grading.** You'll get 2 points for each discussion if you posted 2–3 substantial discussion points or questions on time (before 11:59pm day before). If you only asked about something that is obviously and explicitly mentioned in the paper ("What is X?" where X is clearly introduced), you will not get points. 
 
 <!-- * We are not following the -->
