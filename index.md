@@ -183,10 +183,6 @@ Assignments, including discussion questions, have to be submitted **by 11:59pm (
  
  **We will be strict about this policy: If the deadline is midnight and you submit the assignment at 12:01 AM, you will face the 10% penalty!**
 
-### No double dipping projects across multiple classes
-
-You can not submit the same project to this class and another class that you may be taking at the same time. If you are doing related projects in two different classes, there may be some overlap (e.g. in code libraries, etc.), but they should not be identical. A project that is found to be double-submitted will receive zero credit. If you have questions about this policy, please contact the instructor.
-
 ### Cheating 
 
 Collaboration is encouraged; cheating will not be tolerated.
@@ -210,6 +206,10 @@ work should be your own.
 For both assignments and the project, you should cite all sources that you refer
 to. This includes personal communication, books, papers, websites, etc. Doing so
 reflects academic integrity.
+
+### No double dipping projects across multiple classes
+
+You can not submit the same project to this class and another class that you may be taking at the same time. If you are doing related projects in two different classes, there may be some overlap (e.g. in code libraries, etc.), but they should not be identical. A project that is found to be double-submitted will receive zero credit. If you have questions about this policy, please contact the instructor.
 
 ## Diversity
 
@@ -263,9 +263,15 @@ To report suspicious activity or to request a courtesy escort, contact:
 
 ### Wellness
 
-Take care of yourself! As a student, you may experience a range of challenges that can interfere with learning, such as strained relationships, increased anxiety, substance use, feeling down, difficulty concentrating and/or lack of motivation. All of us benefit from support during times of struggle. There are many helpful resources available on campus and an important part of having a healthy life is learning how to ask for help. Asking for support sooner rather than later is almost always helpful. 
+** Note from the instructor:** Take care of yourself! As a student, you may experience a range of challenges that can interfere with learning, such as strained relationships, increased anxiety, substance use, feeling down, difficulty concentrating and/or lack of motivation. All of us benefit from support during times of struggle. There are many helpful resources available on campus and an important part of having a healthy life is learning how to ask for help. Asking for support sooner rather than later is almost always helpful. 
 
-You can learn more about confidential mental health services available on campus:
+**University Statement:**
+
+Your personal health and wellness are essential to your success as a student. Personal concerns like stress, anxiety, relationship difficulties, depression, or cross-cultural differences can interfere with a student’s ability to succeed and thrive in this course and at the University of Utah.
+
+Please feel welcome to reach out to your instructor or TA to handle issues regarding your coursework.
+
+For helpful resources to manage your personal wellness and counseling options, contact:
 
 * [Center for Student Wellness](https://www.wellness.utah.edu)
   * 801-581-7776
@@ -273,8 +279,6 @@ You can learn more about confidential mental health services available on campus
 * [Women's Resource Center](https://womenscenter.utah.edu/)
   * 801-581-8030
   * 411 Union Building, 200 S. Central Campus Dr., Salt Lake City, UT 84112 
-  
-Crisis services are available from the [National Suicide Prevention Lifeline network](https://988lifeline.org/) 24/7 by phone at **988** ([more details here](https://healthcare.utah.edu/hmhi/programs/crisis-diversion/)).
 
 
 ### Addressing Sexual Misconduct
