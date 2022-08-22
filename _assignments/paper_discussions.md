@@ -25,6 +25,6 @@ Channels for each group (#paper-discussion-group1, #paper-discussion-group2, etc
 For each class discussion, your group will decide on a discussion leader.
 **Everyone is required to lead at least one discussion over the course of the quarter.** Paper
 discussion classes will proceed in two parts. For the first half, each discussion group will break
-out and discuss their own paper for 30 minutes. The lead should use the discussion points raised in MS Teams to
+out and discuss their own paper for 30 minutes. During this period, each group will add main points to a slide shared with other groups. The lead should use the discussion points raised in MS Teams to
 guide the discussion. Then for the second half, we will reconvene and the lead for each group will
 **concisely** summarize their paper and the takeaways from their discussion.
