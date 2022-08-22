@@ -106,7 +106,7 @@ More details will be added as the semester continues.
 
 ## Resources
 
-* **MS Teams.** Course communication will be via MS Teams.  You should sign into using your uNID and join the "team" for the class by clicking on [this link](https://teams.microsoft.com/l/team/19%3ait66PgoRabiGRMhXIEr67O1_XTkjExhyqn3rxIf2vI81%40thread.tacv2/conversations?groupId=d69b57e3-80a0-4b92-88fb-a54bd9145bab&tenantId=5217e0e7-539d-4563-b1bf-7c6dcf074f91). MS Teams will be used for sharing discussion points and questions prior to in-class paper discussions. It's preferred way of communicating with the instructor. 
+* **MS Teams.** Course communication will be via MS Teams.  You should sign into using your uNID and join the "team" for the class by clicking on [this link](https://teams.microsoft.com/l/team/19%3ait66PgoRabiGRMhXIEr67O1_XTkjExhyqn3rxIf2vI81%40thread.tacv2/conversations?groupId=d69b57e3-80a0-4b92-88fb-a54bd9145bab&tenantId=5217e0e7-539d-4563-b1bf-7c6dcf074f91). MS Teams will be used for sharing discussion points and questions prior to in-class paper discussions. It's also the preferred way of communicating with the instructor. 
 
 * **Google Drive.** Course materials, including lectures, reading lists, etc., are in a
   [Google Drive folder](https://drive.google.com/drive/folders/13i2Sor2M7it72aGlMd87Iejw6fzqsBxI?usp=sharing) which has been shared with all students. You can access it (only) with your **@gcloud.utah.edu account**. 
