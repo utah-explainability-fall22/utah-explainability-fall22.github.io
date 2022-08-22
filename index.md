@@ -39,7 +39,7 @@ Office hours are at **11:00am Thursdays in Room 3126 in [MEB](https://goo.gl/map
 
 * **8/16:** Please join Teams.
 
-* **8/16:** Everyone who has enrolled so far has access to the Google Drive using your @gcloud.utah.edu account. Content of slides will be added as we go.
+* **8/16:** Everyone who has enrolled so far has access to the Google Drive using your **@gcloud.utah.edu** account. Content of slides will be added as we go.
 
 * **8/15:** You must enroll in the class or audit.            
  
