@@ -33,7 +33,7 @@ Office hours are at **11:00am Thursdays in Room 3126 in [MEB](https://goo.gl/map
 
 ## Announcements
 
-* *8/24: The lecture room is changed to [1230 WEB](https://bit.ly/3wBNjzE)!**
+* **8/24: The lecture room is changed to [1230 WEB](https://bit.ly/3wBNjzE)!**
 
 * **8/22:** You uNID is assigned to a group for [paper discussions](https://utah-explainability-fall22.github.io//assignments/paper_discussions/). Please go to Canvas and open file "Groups" in "Modules" to see which group you belong to. 
 
