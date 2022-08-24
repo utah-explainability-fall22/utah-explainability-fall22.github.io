@@ -12,7 +12,7 @@ seo:
 {: .no_toc .mb-2 }
 {{ site.description }}
 <br>
-TuTh / 09:10AM-10:30AM, [GC 2781](https://map.utah.edu/index.html?code=GC); **in-person only**
+TuTh / 09:10AM-10:30AM, [1230 WEB](https://bit.ly/3wBNjzE); **in-person only**
 {: .fs-6 .fw-300 }
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -32,6 +32,8 @@ TuTh / 09:10AM-10:30AM, [GC 2781](https://map.utah.edu/index.html?code=GC); **in
 Office hours are at **11:00am Thursdays in Room 3126 in [MEB](https://goo.gl/maps/4QvSpfwDaoLD3aHu7)**.
 
 ## Announcements
+
+* *8/24: The lecture room is changed to [1230 WEB](https://bit.ly/3wBNjzE)!**
 
 * **8/22:** You uNID is assigned to a group for [paper discussions](https://utah-explainability-fall22.github.io//assignments/paper_discussions/). Please go to Canvas and open file "Groups" in "Modules" to see which group you belong to. 
 
