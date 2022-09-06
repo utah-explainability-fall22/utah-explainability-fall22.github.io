@@ -29,9 +29,13 @@ TuTh / 09:10AM-10:30AM, [1230 WEB](https://bit.ly/3wBNjzE); **in-person only**
 {% endfor %}
 {% endif %}
 
-Office hours are at **11:00am Thursdays in Room 3126 in [MEB](https://goo.gl/maps/4QvSpfwDaoLD3aHu7)**.
+Office hours are at **11:00am Thursdays in Room 2166 in [MEB](https://goo.gl/maps/4QvSpfwDaoLD3aHu7)**.
 
 ## Announcements
+
+* **9/6: The lecture room on Thur, Sep 8, is changed to L105 WEB.** Only this time! 
+
+* **9/6: My office changed to Room 2166.**
 
 * **8/24: The lecture room is changed to [1230 WEB](https://bit.ly/3wBNjzE)!**
 
