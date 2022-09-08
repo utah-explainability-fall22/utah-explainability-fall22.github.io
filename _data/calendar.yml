@@ -258,8 +258,8 @@
       format: Lecture
       theme: <b>Class cancelled</b>
       topics: Class cancelled                
-      slides: ""
-      readings: "" 
+      slides: 
+      readings: 
       due: <span style="color:purple">Project report</span> 
     - date: 12/8
       format: Break
