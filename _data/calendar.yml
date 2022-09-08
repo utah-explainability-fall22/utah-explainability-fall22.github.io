@@ -256,8 +256,8 @@
   days:
     - date: 12/6
       format: Lecture
-      theme: <b>Buffer</b>
-      topics: Advanced topics [TBA]                
+      theme: <b>Class cancelled</b>
+      topics: Class cancelled                
       slides: ""
       readings: "" 
       due: <span style="color:purple">Project report</span> 
