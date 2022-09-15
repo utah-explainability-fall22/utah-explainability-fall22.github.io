@@ -33,6 +33,7 @@ For the purpose of this class, feel free to make a note of additional experiment
 * [Two example good reviews from NAACL 2018 presented in their reviewing form](https://naacl2018.wordpress.com/2018/01/20/a-review-form-faq/)  
 * [Discursive advice](https://2020.emnlp.org/blog/2020-05-17-write-good-reviews) in ACL 2017 from leading lights in the field: Mirella Lapata, Marco Baroni, Yoav Artzi, Emily Bender, Joel Tetreault, Ani Nenkova, and Tim Baldwin
 * [Advice on Reviewing for EMNLP 2020](https://2020.emnlp.org/blog/2020-05-17-write-good-reviews)
+* [If you can’t be kind in peer review, be neutral](https://www.nature.com/articles/d41586-020-03394-y)
 * Mark Allman. 2008. [Thoughts on reviewing](https://svivek.com/teaching/structured-prediction/spring2021/readings/allman2008thoughts.pdf). ACM SIGCOMM Computer Communication Review, 38(2):47–50.
 * Graham Cormode. 2009. [How not to review a paper: The tools and techniques of the adversarial reviewer](https://svivek.com/teaching/structured-prediction/spring2021/readings/cormode2008how.pdf). ACM SIGMOD Record, 37(4):100–104.
 * Alan Jay Smith. 1990. [The task of the referee](https://svivek.com/teaching/structured-prediction/spring2021/readings/smith1990the_task_of.pdf). IEEE Computer, 23(4):65–71.
