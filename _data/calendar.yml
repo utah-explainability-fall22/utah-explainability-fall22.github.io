@@ -57,8 +57,8 @@
       due:
     - date: 9/15    
       format: Lecture (Ana)
-      theme: cont.
-      topics: "Concept-based and hierarchical explanations"
+      theme: <b>Which human-interpretable concept led to the prediction?</b> 
+      topics: "Concept-based explanations; Reviewing"
       slides: "https://docs.google.com/presentation/d/1sCkNgvodqt_ulMc3CbafpKkKca5YFbC4_jcNuojiy0c/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.ypfvfb2zi31c"
       due: <span style="color:orange">Papers assigned for review</span>
