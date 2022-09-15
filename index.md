@@ -33,6 +33,8 @@ Office hours are at **11:00am Thursdays in Room 2166 in [MEB](https://goo.gl/map
 
 ## Announcements
 
+* **9/15: A paper is assigned for you to review until Oct 4.**
+
 * **9/6: The lecture room on Thur, Sep 8, is changed to L105 WEB.** Only this time! 
 
 * **9/6: My office changed to Room 2166.**
