@@ -28,6 +28,7 @@ For the purpose of this class, feel free to make a note of additional experiment
 * [Vivek Srikumar's tips](https://svivek.com/teaching/structured-prediction/spring2021/reviews.html)                      
 * Rogers and Augenstein. [How to review for ACL Rolling Review](https://aclrollingreview.org/reviewertutorial#strengths-of-the-paper).  
 * Rogers and Augenstein. [What Can We Do to Improve Peer Review in NLP?](https://aclanthology.org/2020.findings-emnlp.112.pdf) EMNLP Findings 2020.    
+* [EACL 2021 Tutorial "Reviewing NLP Research"](https://github.com/reviewingNLP/EACL2021T5)
 * [NLP Highlights Podcast: On Writing Quality Peer Reviews, with Noah A. Smith](https://soundcloud.com/nlp-highlights/77-on-writing-quality-peer-reviews-with-noah-a-smith)   
 * [Two example good reviews from NAACL 2018 presented in their reviewing form](https://naacl2018.wordpress.com/2018/01/20/a-review-form-faq/)  
 * [Discursive advice](https://2020.emnlp.org/blog/2020-05-17-write-good-reviews) in ACL 2017 from leading lights in the field: Mirella Lapata, Marco Baroni, Yoav Artzi, Emily Bender, Joel Tetreault, Ani Nenkova, and Tim Baldwin
