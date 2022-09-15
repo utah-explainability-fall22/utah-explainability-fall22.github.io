@@ -5,7 +5,7 @@ include_nav_home: true
 
 # Paper Review & Turnin
 
-For a paper you are assigned to review (Canvas > Home > Paper Review > paper_assignment), you should complete[this form](https://docs.google.com/document/d/1WQPdjNaMjWr-Dv_mZ_e0BInPM1PgzqnB97p9tY36V4Q/edit?usp=sharing). Please make a copy of this document and send it back to me in any digital way that works for you. However, if you are willing to share your review with others, consider uploading it [here](https://drive.google.com/drive/folders/1pxyO0ca3QcQOC5KVH-Q7W2w-i6SEK6w6?usp=sharing). I recommend that you all do that, but no pressure. 
+For a paper you are assigned to review (Canvas > Home > Paper Review > paper_assignment), you should complete   [this form](https://docs.google.com/document/d/1WQPdjNaMjWr-Dv_mZ_e0BInPM1PgzqnB97p9tY36V4Q/edit?usp=sharing). Please make a copy of this document and send it back to me in any digital way that works for you. However, if you are willing to share your review with others, consider uploading it [here](https://drive.google.com/drive/folders/1pxyO0ca3QcQOC5KVH-Q7W2w-i6SEK6w6?usp=sharing). I recommend that you all do that, but no pressure. 
 
 Before you start writing the review, carefuly go over [this tutorial](https://aclrollingreview.org/reviewertutorial#strengths-of-the-paper) for more details and useful tips. You will see that the tutorial suggest to **NOT** do the following:
 
