@@ -222,10 +222,10 @@
     - date: 11/22
       format: Project Meetings
       theme: <b><span style="color:purple">Project Meetings</span></b>
-      topics: Class is canceled; schedule individual meetings on projects
+      topics: TBD (etiher cancelled or peer user studies)
       slides: 
       readings: 
-      due:
+      due: <span style="color:purple">Schedule individual meetings on projects</span>
     - date: 11/24
       format: Break
       theme:  <b><span style="color:green">Thanksgiving Break</span></b>
