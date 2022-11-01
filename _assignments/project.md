@@ -77,10 +77,10 @@ Your project is worth 50% of the class grade. This is broken down across the fol
 * **Presentation (12.5pt):** Instead of the final exam, we will have a presentation of the projects in the class. More details as we go along.
 * **Submit a project report (15pt):** A document no longer than 8 pages, structured like a research paper.
     * What problem did you work on? Why is it interesting?
-    * What are the important ideas you explored?
+    * What have you done to address the problem? 
     * What ideas from the class did you use?
+    * Provide your results and conclusions. 
     * What did you learn?
-    * Results (or for theoretical project, proofs)
     * If you had much more time, how would you continue the project?
     * If your project had two members, your report should explain what each of you did.
     * Each of these components will be equally weighted in the report grade.
