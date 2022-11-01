@@ -33,27 +33,8 @@ Office hours are at **11:00am Thursdays in Room 2166 in [MEB](https://goo.gl/map
 
 ## Announcements
 
-* **9/15: A paper is assigned for you to review until Oct 4.**
+Please keep track of Teams and Canvas for announcements. 
 
-* **9/6: The lecture room on Thur, Sep 8, is changed to L105 WEB.** Only this time! 
-
-* **9/6: My office changed to Room 2166.**
-
-* **8/24: The lecture room is changed to [1230 WEB](https://bit.ly/3wBNjzE)!**
-
-* **8/22:** You uNID is assigned to a group for [paper discussions](https://utah-explainability-fall22.github.io//assignments/paper_discussions/). Please go to Canvas and open file "Groups" in "Modules" to see which group you belong to. 
-
-* **8/16:** Please complete the background quiz in Canvas at your earliest convenience. This will be very helpful to me to know in how much detail I need to go when covering certain topics. 
-
-* **8/16:** Please join Teams.
-
-* **8/16:** Everyone who has enrolled so far has access to the [Google Drive](https://drive.google.com/drive/folders/13i2Sor2M7it72aGlMd87Iejw6fzqsBxI) using your **@gcloud.utah.edu** account. Content of slides will be added as we go.
-
-* **8/15:** You must enroll in the class or audit.            
- 
-* **8/8: Course website is live.**
-  Welcome.
-  
 ## Description
 
 Although neural models have obtained great success across various machine learning (ML) tasks in recent years, they are poorly understood. Consequently, people (including ML experts) have little perception of how to control ML systems they interact with and are typically left wondering:
