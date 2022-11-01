@@ -195,24 +195,24 @@
       format: Lecture (Ana)
       theme: <b>Advanced topics</b>
       topics: Few-shot learning 
-      slides: 
-      readings: 
+      slides: "https://docs.google.com/presentation/d/12Eg31wSusnVHF3jg-k_gmVun63OxyjMnu_1ouQikclQ/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.cwow9vioebm5" 
       due: <span style="color:purple">Project intermediate status report due</span> 
 
 - week: 13
   days:
     - date: 11/15
-      format: Buffer
-      theme: <b>Buffer</b>
-      topics: Advanced topics [TBA]
-      slides: 
-      readings: 
+      format: Paper discussion
+      theme: cont.
+      topics: Self-attention vs. convolution
+      slides: "https://docs.google.com/presentation/d/1jvhhf8TZ0uoDnEvKVdExR8V2OFjur0J-nw3-EixVPIw/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1qJCaaOtJ2z5eC7Iodvz8NAmD8FDbXJD9YqLPmdXRbDE/edit#bookmark=id.5p061mz7owbn"
       due: (Potentially) Ask discussion questions by Nov 14, 11:59pm
     - date: 11/17
       format: Lecture (Ana)
       theme:  <b>Looking back</b>
       topics: Looking back
-      slides: 
+      slides: "https://docs.google.com/presentation/d/13v8r4E0p3k5LkxuHaQSlC7Q2pKokt8yDTSkooLbbQkU/edit?usp=sharing"
       readings: 
       due: 
 
