@@ -67,11 +67,11 @@ Your project is worth 50% of the class grade. This is broken down across the fol
     * If you are working on a standard data set, there is probably a standard evaluation that has been followed in the literature. You could describe this.
     * For a survey paper, you can commit to saying that success is providing X number of new insights. 
     * A successful formalization provides a clearly articulated framework for an old concept.
-* **Submit an intermediate status report (10pt).** Upload [here](https://drive.google.com/drive/folders/1ha_jKmwyfffNOZdno6VbBTrzx6PYzTug?usp=share_link).A max 2-page document that says what you have done on the project so far. You can use your project proposal and add at the end a new section for new content. The new content should be max 2 pages, not everything including your proposal. The report should describe:
+* **Submit an intermediate status report (10pt).** Upload [here](https://drive.google.com/drive/folders/1ha_jKmwyfffNOZdno6VbBTrzx6PYzTug?usp=share_link). A max 2-page document that says what you have done on the project so far. You can use your project proposal and add at the end a new section for new content. The new content should be max 2 pages, not everything including your proposal. The report should describe:
     * The progress you have made towards your goal. (This cannot be just "We collected data".) (5pt)
         * You **must** include a link to a github repository for your project.
     * Details of your plan for rest of the semester (3pt)
-        * Here you **must** integrate the feedback you received on your proposal, unless I just suggested you could do something but didn't gave a signal it's crucial. 
+        * Here you **must** integrate the feedback you received on your proposal, unless I just suggested you could do something but didn't give a signal it's crucial. 
     * Pointers to literature (2pt)
         * Here you should integrate the feedback you received on the literature. 
 * **Presentation (12.5pt):** Upload [here](https://drive.google.com/drive/folders/1HIgZkF31ODPXIVBSPFH473hnxfF2Iwg9?usp=share_link). Instead of the final exam, we will have a presentation of the projects in the class. More details as we go along.
