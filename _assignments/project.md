@@ -75,6 +75,16 @@ Your project is worth 50% of the class grade. This is broken down across the fol
     * Pointers to literature (2pt)
         * Here you should integrate the feedback you received on the literature. 
 * **Presentation (12.5pt):** Upload [here](https://drive.google.com/drive/folders/1HIgZkF31ODPXIVBSPFH473hnxfF2Iwg9?usp=share_link). Instead of the final exam, we will have a presentation of the projects in the class. More details as we go along.
+    * **All** presentations MUST be uploaded by **Tuesday, Nov 29, 9 AM**. 
+    * Please check Canvas (Home > Project Presentations) to see when your presentation is scheduled. Those who are scheduled for Thrusday MUST use the slides uploaded to the drive above. 
+    * Your presentation has to have the following structure:
+        * Title slide with the project name, your name, and a link to your github repo. **(0.5 point)**
+        * Introduction to the project topic **(1 points)** and the research question written as an actual question (e.g., Does X improve Y?) **(1 point)**. Demonstrate why addressing this question is relevant: what does every possible answer to the question entails? **(1 points)** 
+        * Describe your approach to answering the research question. **(2 points)** 
+        * Precisely describe your experimental setup: tasks **(0.5 point)**, dataset names **(0.5 point)** + their main characteristics **(0.5 point)**, and evaluation metric **(1 point)**. 
+        * Present your results with figures/tables that are well organized and labeled **(1 points)**. Walk us through how to read them (what's x-axis, what's y-axis, where are the baselines, where is your method, point where can we see every result you're commenting, etc.) **(1 point)**
+        * What do you conclude from your results? **(1.5 points)**
+        * Tell us what you would do differently and/or what would you do if you had more time. **(1 point)**
 * **Submit a project report (15pt):** Upload [here](https://drive.google.com/drive/folders/1D5lTKslXLneDN5_rlN5shDxxxnJ59KZQ?usp=share_link). A document no longer than 8 pages, structured like a research paper.
     * What problem did you work on? Why is it interesting?
     * What have you done to address the problem? 
