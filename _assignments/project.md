@@ -86,7 +86,7 @@ Your project is worth 50% of the class grade. This is broken down across the fol
         * Present your results with figures/tables that are well organized and labeled **(1 points)**. Walk us through how to read them (what's x-axis, what's y-axis, where are the baselines, where is your method, point where we can see every result you're commenting, etc.) **(1 point)** Discuss and interpret results in the context of your research questions.
         * Given your research question, what do you conclude from your results? **(1.5 points)**
         * Tell us what you would do differently and/or what would you do if you had more time. **(1 point)**
-* **Submit a project report (15pt):** Upload [here](https://drive.google.com/drive/folders/1D5lTKslXLneDN5_rlN5shDxxxnJ59KZQ?usp=share_link). A document no longer than 8 pages, structured like a research paper.
+* **Submit a project report (15pt):** Upload [here](https://drive.google.com/drive/folders/1D5lTKslXLneDN5_rlN5shDxxxnJ59KZQ?usp=share_link). Try to structure it like a research paper.
     * What problem did you work on? Why is it interesting?
     * What have you done to address the problem? 
     * What ideas from the class did you use?
