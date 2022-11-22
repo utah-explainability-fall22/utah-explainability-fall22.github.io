@@ -82,7 +82,7 @@ Your project is worth 50% of the class grade. This is broken down across the fol
         * Title slide with the project name, your name, and a link to your github repo. **(0.5 point)**
         * Introduction to the project topic **(1 points)** and the research question written as an actual question (e.g., Does X improve Y?) **(1 point)**. Demonstrate why addressing this question is relevant: what does every possible answer to the question entail? **(1 points)** 
         * Describe your approach to answering the research question. **(2 points)** 
-        * Precisely describe your experimental setup: tasks **(0.5 point)**, dataset names **(0.5 point)** + their main characteristics **(0.5 point)**, and evaluation metric **(1 point)**. 
+        * Precisely describe your experimental setup: tasks **(0.5 point)**, dataset names **(0.5 point)** + their main characteristics **(0.5 point)**, and evaluation metrics **(1 point)**. 
         * Present your results with figures/tables that are well organized and labeled **(1 points)**. Walk us through how to read them (what's x-axis, what's y-axis, where are the baselines, where is your method, point where we can see every result you're commenting, etc.) **(1 point)**
         * What do you conclude from your results? **(1.5 points)**
         * Tell us what you would do differently and/or what would you do if you had more time. **(1 point)**
