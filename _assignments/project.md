@@ -93,9 +93,10 @@ Your project is worth 50% of the class grade. This is broken down across the fol
     * Provide your results and conclusions. 
     * What did you learn?
     * If you had much more time, how would you continue the project?
-    * Each of these components will be equally weighted in the report grade.
-    * Points will be deducated if the report has many grammatical mistakes and poor coherence. 
-    * If your project had two members, your report should explain what each of you did.
+    * Notes:
+        * Each of these components will be equally weighted in the report grade.
+        * Points will be deducated if the report has many grammatical mistakes and poor coherence. 
+        * If your project had two members, your report should explain what each of you did.
 
 
 <!-- * Pre-proposal: A 1-2 paragraph document describing the focus area of the project and defining team members (Due 1/23) -->
