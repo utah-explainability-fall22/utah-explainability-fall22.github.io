@@ -76,8 +76,8 @@ Your project is worth 50% of the class grade. This is broken down across the fol
         * Here you should integrate the feedback you received on the literature. 
 * **Presentation (12.5pt):** Upload a **pdf** [here](https://drive.google.com/drive/folders/1HIgZkF31ODPXIVBSPFH473hnxfF2Iwg9?usp=share_link). 
     * **All** presentations MUST be uploaded by **Tuesday, Nov 29, 9 AM**. 
-    * Please check Canvas (Home > Project Presentations) to see when your presentation is scheduled. If you can't present on that day, let me know immediately. Everyone (including those who are scheduled for Thrusday) MUST use the slides uploaded to the drive above. If you miss the deadline for uploading your slides you will loose all points.  
-    * Every presentation has to be max. 20' long. There will be a hard stop. Plan what you will say beforehand.   
+    * Please check Canvas (Home > Project Presentations) to see when your presentation is scheduled. **If you can't present on that day, let me know immediately.** Everyone (including those who are scheduled for Thrusday) **will use the version of slides available in the drive on Tuesday morning** (I'll turn off to the access to the drive on Tuesday). If you miss the deadline for uploading your slides you will loose all points.  
+    * Every presentation has to be presented **max. 20' long**. There will be a hard stop. _Plan what you will say beforehand._   
     * Your presentation has to have the following structure:
         * Title slide with the project name, your name, and a link to your github repo. **(0.5 point)**
         * A _brief_ introduction to the project topic **(1 points)** and the research question written as a _concrete_ question (e.g., Does X improve Y?) **(1 point)**. Demonstrate why addressing this question is relevant: what does every possible answer to the question entail? **(1 points)** 
